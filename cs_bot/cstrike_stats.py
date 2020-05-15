@@ -11,6 +11,7 @@ import json
 
 DAYS_DOUBLE_DECAY = 7
 MIN_WEIGHTED_KILLS = 10
+SMOOTH_WINDOW_DAYS = 5
 WORK_DIR = os.path.dirname(os.path.realpath(__file__))
 IMG_FOLDER = WORK_DIR + '/img'
 DATA_FOLDER = WORK_DIR + '/data'
@@ -82,12 +83,26 @@ def main(dfs):
         ix = pd.isnull(accuracy) | pd.isnull(efficiency)
         accuracy = np.array(accuracy[~ix])
         efficiency = np.array(efficiency[~ix])
-        fig = plt.figure()
+        x = range(len(accuracy))
+
+        fig, ax1 = plt.subplots()
         plt.grid()
         plt.title(user)
-        plt.plot(range(len(accuracy)), accuracy, label='accuracy', color='red', marker='o')
-        plt.plot(range(len(accuracy)), efficiency, label='efficiency', color='blue', marker='o')
-        plt.legend()
+        color = 'tab:blue'
+        ax1.set_xlabel('day')
+        ax1.set_ylabel('efficiency', color=color)
+        ax1.plot(x, efficiency, color=color, alpha=0.5, linestyle=':')
+        ax1.plot(x, pd.Series(efficiency).rolling(window=SMOOTH_WINDOW_DAYS).mean(), color=color)
+        ax1.tick_params(axis='y', labelcolor=color)
+
+        ax2 = ax1.twinx()  # instantiate a second axes that shares the same x-axis
+        color = 'tab:red'
+        ax2.set_ylabel('accuracy', color=color)  # we already handled the x-label with ax1
+        ax2.plot(x, accuracy, color=color, alpha=0.5, linestyle=':')
+        ax1.plot(x, pd.Series(accuracy).rolling(window=SMOOTH_WINDOW_DAYS).mean(), color=color)
+        ax2.tick_params(axis='y', labelcolor=color)
+
+        fig.tight_layout()
         plt.savefig(f'{IMG_FOLDER}/{user}.png')
         plt.close(fig)
     
