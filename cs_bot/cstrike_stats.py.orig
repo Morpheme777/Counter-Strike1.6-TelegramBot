@@ -1,0 +1,150 @@
+# pip install tabulate
+# pip install pandas --upgrade
+
+import os
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import six
+import json
+
+
+DAYS_DOUBLE_DECAY = 7
+MIN_WEIGHTED_KILLS = 100
+WORK_DIR = os.path.dirname(os.path.realpath(__file__))
+IMG_FOLDER = WORK_DIR + '/img'
+DATA_FOLDER = WORK_DIR + '/data'
+
+data_files = []
+for file in os.listdir(DATA_FOLDER):
+    if file.endswith(".json"):
+        data_files.append(file)
+data_files.sort()
+dfs = []
+for file in data_files:
+    f = open("{}/{}".format(DATA_FOLDER,file), 'r')
+    data = json.load(f)
+    f.close()
+    df = pd.DataFrame.from_records(data)
+    dfs.append(df)
+
+#df0 = pd.DataFrame.from_records(data)
+#df1 = pd.DataFrame.from_records(data_1)
+#dfs = [df0, df1]
+#print(dfs)
+
+
+def render_mpl_table_ranking(data, col_width=3.0, row_height=0.625, font_size=14,
+                     header_color='#40466e', row_colors=['#f1f1f2', 'w'], edge_color='w',
+                     bbox=[0, 0, 1, 1], header_columns=0,
+                     ax=None, **kwargs):
+    if ax is None:
+        size = (np.array(data.shape[::-1]) + np.array([0, 1])) * np.array([col_width, row_height])
+        fig, ax = plt.subplots(figsize=size)
+        ax.axis('off')
+
+    mpl_table = ax.table(cellText=data.values, bbox=bbox, colLabels=data.columns, **kwargs)
+
+    mpl_table.auto_set_font_size(False)
+    mpl_table.set_fontsize(font_size)
+    for k, cell in  six.iteritems(mpl_table._cells):
+        cell.set_edgecolor(edge_color)
+        if k[0] == 0 or k[1] < header_columns:
+            cell.set_text_props(weight='bold', color='w')
+            cell.set_facecolor(header_color)
+        else:
+            cell.set_facecolor(row_colors[k[0]%len(row_colors) ])
+
+        if k[1] == 3 and k[0] > 0:
+            if cell.get_text().get_text()[0] == '-':
+                cell.get_text().set_color('red')
+            else:
+                cell.get_text().set_color('green')
+
+    plt.tight_layout()
+    plt.savefig(WORK_DIR + '/ranking.png')
+    return ax
+
+
+def main(dfs):
+    users = dfs[-1].name.unique()
+    avg_damage = dfs[-1].damage.mean()
+    avg_kills = dfs[-1].kills.mean()
+    
+    def _calc_skill(df_user, avg_damage, avg_kills):
+        w = np.power(2, -np.arange(len(df_user))/DAYS_DOUBLE_DECAY)[::-1]
+        kills_w = np.sum(df_user['kills'] * w)
+        deaths_w = np.sum(df_user['deaths'] * w)
+        damage_w = np.sum(df_user['damage'] * w)
+        return kills_w / deaths_w * 0.5 * (avg_damage / avg_kills + damage_w / kills_w) , kills_w
+    
+    def _prepare_figure(user, accuracy, efficiency):
+        ix = pd.isnull(accuracy) | pd.isnull(efficiency)
+        accuracy = np.array(accuracy[~ix])
+        efficiency = np.array(efficiency[~ix])
+        fig = plt.figure()
+        plt.grid()
+        plt.title(user)
+        plt.plot(range(len(accuracy)), accuracy, label='accuracy', color='red', marker='o')
+        plt.plot(range(len(accuracy)), efficiency, label='efficiency', color='blue', marker='o')
+        plt.legend()
+        plt.savefig(f'{IMG_FOLDER}/{user}.png')
+        plt.close(fig)
+    
+    
+    for df in dfs:
+        df['hits_total'] = df['hits'].apply(sum)
+    
+    cols = ['deaths', 'kills', 'damage', 'shots', 'hits_total']
+    
+    def prepare_user_info(dfs, user):
+        data = []
+        for i, df in enumerate(dfs):
+            try:
+                if i == 0:
+                    diffs = df[df.name == user][cols].iloc[0]
+                else:
+                    diffs = df[df.name == user][cols].iloc[0] - dfs[i-1][dfs[i-1].name == user][cols].iloc[0]
+                data.append(diffs)
+            except:
+                pass
+        if len(data) < 2:
+            raise KeyError("no sufficient data for user")
+    
+        user_dynamic_df = pd.DataFrame(data)
+        user_dynamic_df['accuracy'] = user_dynamic_df['hits_total'] / user_dynamic_df['shots']
+        user_dynamic_df['efficiency'] = user_dynamic_df['kills'] / (user_dynamic_df['deaths'] + user_dynamic_df['kills'])
+        skill, kills_wheighted_count = _calc_skill(user_dynamic_df, avg_damage, avg_kills)
+        skill_prev, _ = _calc_skill(user_dynamic_df[:-1], avg_damage, avg_kills)
+        skill_diff = skill - skill_prev
+        if kills_wheighted_count < MIN_WEIGHTED_KILLS:
+            raise ValueError(f"not enough weighted kills for user: {kills_wheighted_count}")
+        _prepare_figure(user, user_dynamic_df['accuracy'], user_dynamic_df['efficiency'])
+    
+        return skill, skill_diff
+    
+    
+    if not os.path.exists(IMG_FOLDER):
+        os.mkdir(IMG_FOLDER)
+    
+    skill_data = []
+    for user in users:
+        try:
+            skill, skill_prev = prepare_user_info(dfs, user)
+        except Exception as e:
+            print(user, e)
+            continue
+        skill_data.append([user, skill, skill_prev])
+    
+    df_ranking = pd.DataFrame(skill_data, columns=['Player', 'True Skill', 'Trend']).sort_values('True Skill', ascending=False)
+    df_ranking.reset_index(drop=True, inplace=True)
+    
+    return df_ranking
+
+if __name__ == '__main__':
+	df_ranking = main(dfs)
+	df_ranking['True Skill'] = df_ranking['True Skill'].apply(lambda x: "{:,.2f}".format(x))
+	df_ranking['Trend'] = df_ranking['Trend'].apply(lambda x: "{:,.2f}".format(x))
+	df_ranking['Player'] = df_ranking['Player'].apply(lambda x: x[:14])
+	df_ranking.insert(0, 'Rank', np.arange(1, len(df_ranking)+1))
+	render_mpl_table_ranking(df_ranking)
