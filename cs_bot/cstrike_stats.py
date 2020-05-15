@@ -92,14 +92,14 @@ def main(dfs):
         ax1.set_xlabel('day')
         ax1.set_ylabel('efficiency', color=color)
         ax1.plot(x, efficiency, color=color, alpha=0.5, linestyle=':')
-        ax1.plot(x, pd.Series(efficiency).rolling(window=SMOOTH_WINDOW_DAYS, closed='both').mean(), color=color)
+        ax1.plot(x, pd.Series(efficiency).rolling(window=SMOOTH_WINDOW_DAYS, center=True).mean(), color=color)
         ax1.tick_params(axis='y', labelcolor=color)
 
         ax2 = ax1.twinx()  # instantiate a second axes that shares the same x-axis
         color = 'tab:red'
         ax2.set_ylabel('accuracy', color=color)  # we already handled the x-label with ax1
         ax2.plot(x, accuracy, color=color, alpha=0.5, linestyle=':')
-        ax2.plot(x, pd.Series(accuracy).rolling(window=SMOOTH_WINDOW_DAYS, closed='both').mean(), color=color)
+        ax2.plot(x, pd.Series(accuracy).rolling(window=SMOOTH_WINDOW_DAYS, center=True).mean(), color=color)
         ax2.tick_params(axis='y', labelcolor=color)
 
         fig.tight_layout()
