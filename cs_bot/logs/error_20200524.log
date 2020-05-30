@@ -1,0 +1,5 @@
+L 05/24/2020 - 18:48:11: Start of error session.
+L 05/24/2020 - 18:48:11: Info (map "de_inferno_2x2") (file "addons/amxmodx/logs/error_20200524.log")
+L 05/24/2020 - 18:48:11: Couldn't write file "cstrike/"
+L 05/24/2020 - 18:48:11: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "write_file") - debug not enabled!
+L 05/24/2020 - 18:48:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

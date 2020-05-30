@@ -1,0 +1,187 @@
+L 04/30/2020 - 00:14:35: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 00:14:37: [mapchooser4.amxx] segor's_friend chose fy_pool_day
+L 04/30/2020 - 00:14:42: [mapchooser4.amxx] Diablo chose de_inferno_2x2
+L 04/30/2020 - 00:14:45: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno_2x2
+L 04/30/2020 - 00:14:56: -------- Mapchange to de_inferno_2x2 --------
+L 04/30/2020 - 00:14:56: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 00:14:57: [admin.amxx] Login: "Diablo<316><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.162.171")
+L 04/30/2020 - 00:15:04: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 00:55:32: [mapsmenu.amxx] Vote: "Diablo<316><STEAM_0:1:21335723><>" vote maps (map#1 "de_dust2_2x2") (map#2 "") (map#3 "") (map#4 "")
+L 04/30/2020 - 00:55:44: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to de_dust2_2x2
+L 04/30/2020 - 00:55:45: [mapsmenu.amxx] Vote: Result accepted
+L 04/30/2020 - 00:55:47: -------- Mapchange to de_dust2_2x2 --------
+L 04/30/2020 - 00:55:48: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 00:55:48: [admin.amxx] Login: "Diablo<316><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.162.171")
+L 04/30/2020 - 00:55:55: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 01:53:54: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 01:54:04: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_cpl_mill
+L 04/30/2020 - 01:56:07: -------- Mapchange to de_cpl_mill --------
+L 04/30/2020 - 01:56:07: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 01:56:14: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 02:53:58: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 02:54:08: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 04/30/2020 - 02:56:26: -------- Mapchange to de_dust --------
+L 04/30/2020 - 02:56:27: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 02:56:34: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 03:54:18: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 03:54:28: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 04/30/2020 - 03:56:46: -------- Mapchange to de_dust2 --------
+L 04/30/2020 - 03:56:46: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 03:56:53: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 04:54:37: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 04:54:47: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 04/30/2020 - 04:57:05: -------- Mapchange to de_inferno --------
+L 04/30/2020 - 04:57:05: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 04:57:12: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 05:54:56: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 05:55:06: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_nuke
+L 04/30/2020 - 05:57:25: -------- Mapchange to de_nuke --------
+L 04/30/2020 - 05:57:25: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 05:57:32: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 06:55:17: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 06:55:27: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 04/30/2020 - 06:57:45: -------- Mapchange to cs_assault --------
+L 04/30/2020 - 06:57:45: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 06:57:52: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 07:55:36: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 07:55:46: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_italy
+L 04/30/2020 - 07:58:04: -------- Mapchange to cs_italy --------
+L 04/30/2020 - 07:58:05: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 07:58:12: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 08:55:56: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 08:56:06: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 04/30/2020 - 08:58:24: -------- Mapchange to de_train --------
+L 04/30/2020 - 08:58:24: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 08:58:31: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 09:56:15: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 09:56:25: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_ak-colt
+L 04/30/2020 - 09:58:43: -------- Mapchange to aim_ak-colt --------
+L 04/30/2020 - 09:58:43: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 09:58:51: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 10:56:35: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 10:56:45: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_aztecplace
+L 04/30/2020 - 10:59:03: -------- Mapchange to aim_aztecplace --------
+L 04/30/2020 - 10:59:03: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 10:59:10: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 11:56:54: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 11:57:04: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 04/30/2020 - 11:59:22: -------- Mapchange to aim_headshot --------
+L 04/30/2020 - 11:59:22: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 11:59:29: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 12:57:13: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 12:57:24: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map
+L 04/30/2020 - 12:59:42: -------- Mapchange to aim_map --------
+L 04/30/2020 - 12:59:42: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 12:59:50: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 13:57:34: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 13:57:44: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_16fighter
+L 04/30/2020 - 14:00:02: -------- Mapchange to cs_16fighter --------
+L 04/30/2020 - 14:00:03: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 14:00:10: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 14:57:54: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 14:58:04: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_pf_dust
+L 04/30/2020 - 15:00:22: -------- Mapchange to cs_pf_dust --------
+L 04/30/2020 - 15:00:24: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 15:00:32: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 15:58:16: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 15:58:26: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_iceworld_2002
+L 04/30/2020 - 16:00:44: -------- Mapchange to fy_iceworld_2002 --------
+L 04/30/2020 - 16:00:45: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 16:00:52: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 17:07:36: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 17:07:46: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_mansion
+L 04/30/2020 - 17:09:58: -------- Mapchange to cs_mansion --------
+L 04/30/2020 - 17:09:59: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 17:10:06: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 18:07:50: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 18:08:00: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_mirage
+L 04/30/2020 - 18:19:12: -------- Mapchange to de_mirage --------
+L 04/30/2020 - 18:19:13: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 18:19:21: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 19:17:05: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 19:17:15: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_snow
+L 04/30/2020 - 19:28:26: -------- Mapchange to fy_snow --------
+L 04/30/2020 - 19:28:28: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 19:28:35: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 19:35:23: [admin.amxx] Login: "GUSINBERG<331><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "cdefjuz") (address "81.200.27.239")
+L 04/30/2020 - 19:42:38: [admincmd.amxx] Cmd: "GUSINBERG<331><STEAM_0:1:55760822><>" changelevel "de_aztec"
+L 04/30/2020 - 19:42:40: -------- Mapchange to de_aztec --------
+L 04/30/2020 - 19:42:41: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 19:42:41: [admin.amxx] Login: "GUSINBERG<331><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "cdefjuz") (address "81.200.27.239")
+L 04/30/2020 - 19:42:48: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 20:41:02: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 20:41:12: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno_2x2
+L 04/30/2020 - 20:43:04: -------- Mapchange to de_inferno_2x2 --------
+L 04/30/2020 - 20:43:05: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 20:43:12: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 20:52:09: -------- Mapchange to de_dust2_2x2 --------
+L 04/30/2020 - 20:52:10: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 20:52:17: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 20:57:38: [admin.amxx] Login: "Diablo<345><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.162.171")
+L 04/30/2020 - 21:04:37: -------- Mapchange to de_inferno --------
+L 04/30/2020 - 21:04:38: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 21:04:38: [admin.amxx] Login: "Diablo<345><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.162.171")
+L 04/30/2020 - 21:04:45: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 21:12:29: [admin.amxx] Login: "GUSINBERG<352><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "cdefjuz") (address "94.25.173.245")
+L 04/30/2020 - 21:30:06: [admin.amxx] Login: "RAZ DVA<352><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "cdefjuz") (address "94.25.173.245")
+L 04/30/2020 - 21:30:33: [mapsmenu.amxx] Vote: "Diablo<345><STEAM_0:1:21335723><>" vote maps (map#1 "de_cbble") (map#2 "de_cpl_mill") (map#3 "cs_italy") (map#4 "")
+L 04/30/2020 - 21:30:45: [mapsmenu.amxx] Vote: Voting failed
+L 04/30/2020 - 21:33:14: [mapsmenu.amxx] Vote: "Diablo<345><STEAM_0:1:21335723><>" vote maps (map#1 "de_aztec") (map#2 "de_nuke") (map#3 "de_dust2") (map#4 "")
+L 04/30/2020 - 21:33:26: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to de_dust2
+L 04/30/2020 - 21:33:27: [mapsmenu.amxx] Vote: Result refused
+L 04/30/2020 - 21:34:56: [mapsmenu.amxx] Cmd: "Diablo<345><STEAM_0:1:21335723><>" changelevel "de_dust2"
+L 04/30/2020 - 21:34:56: -------- Mapchange to de_dust2 --------
+L 04/30/2020 - 21:34:56: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 21:34:56: [admin.amxx] Login: "Diablo<345><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.162.171")
+L 04/30/2020 - 21:34:57: [admin.amxx] Login: "RAZ DVA<352><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "cdefjuz") (address "94.25.173.245")
+L 04/30/2020 - 21:35:04: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 22:07:48: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 22:07:50: [mapchooser4.amxx] Jeroz chose de_dust
+L 04/30/2020 - 22:07:52: [mapchooser4.amxx] Frap chose de_dust
+L 04/30/2020 - 22:07:52: [mapchooser4.amxx] +q chose de_dust
+L 04/30/2020 - 22:07:53: [mapchooser4.amxx] zelzelzel chose de_dust
+L 04/30/2020 - 22:07:54: [mapchooser4.amxx] Diablo chose de_dust
+L 04/30/2020 - 22:07:55: [mapchooser4.amxx] Egor chose de_dust
+L 04/30/2020 - 22:07:55: [mapchooser4.amxx] Morpheme chose de_dust
+L 04/30/2020 - 22:07:55: [mapchooser4.amxx] lipetsk.ru chose fy_iceworld_2002
+L 04/30/2020 - 22:07:56: [mapchooser4.amxx] KABAN chose aim_map
+L 04/30/2020 - 22:07:57: [mapchooser4.amxx] necnec chose de_dust
+L 04/30/2020 - 22:07:58: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 04/30/2020 - 22:08:09: -------- Mapchange to de_dust --------
+L 04/30/2020 - 22:08:10: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 22:08:10: [admin.amxx] Login: "Diablo<345><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.162.171")
+L 04/30/2020 - 22:08:10: [admin.amxx] Login: "RAZ DVA<352><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "cdefjuz") (address "94.25.173.245")
+L 04/30/2020 - 22:08:10: [admin.amxx] Login: "Diablo<366><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.162.171")
+L 04/30/2020 - 22:08:17: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 22:08:53: -------- Mapchange to de_cpl_mill --------
+L 04/30/2020 - 22:08:53: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 22:08:54: [admin.amxx] Login: "Diablo<366><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.162.171")
+L 04/30/2020 - 22:08:54: [admin.amxx] Login: "RAZ DVA<352><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "cdefjuz") (address "94.25.173.245")
+L 04/30/2020 - 22:08:54: [admin.amxx] Login: "RAZ DVA<352><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "cdefjuz") (address "94.25.173.245")
+L 04/30/2020 - 22:09:01: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 22:21:33: -------- Mapchange to de_cbble --------
+L 04/30/2020 - 22:21:33: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 22:21:33: [admin.amxx] Login: "Diablo<366><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.162.171")
+L 04/30/2020 - 22:21:33: [admin.amxx] Login: "Diablo<366><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.162.171")
+L 04/30/2020 - 22:21:33: [admin.amxx] Login: "RAZ DVA<352><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "cdefjuz") (address "94.25.173.245")
+L 04/30/2020 - 22:21:33: [admin.amxx] Login: "RAZ DVA<352><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "cdefjuz") (address "94.25.173.245")
+L 04/30/2020 - 22:21:40: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 22:34:02: [admincmd.amxx] Cmd: "RAZ DVA<352><STEAM_0:1:55760822><>" changelevel "de_train"
+L 04/30/2020 - 22:34:05: -------- Mapchange to de_train --------
+L 04/30/2020 - 22:34:05: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 22:34:05: [admin.amxx] Login: "Diablo<366><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.162.171")
+L 04/30/2020 - 22:34:05: [admin.amxx] Login: "RAZ DVA<352><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "cdefjuz") (address "94.25.173.245")
+L 04/30/2020 - 22:34:12: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 23:32:11: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 23:32:15: [mapchooser4.amxx] archie chose de_mipt
+L 04/30/2020 - 23:32:21: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_mipt
+L 04/30/2020 - 23:34:26: -------- Mapchange to de_mipt --------
+L 04/30/2020 - 23:34:27: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 23:34:35: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 04/30/2020 - 23:55:19: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 04/30/2020 - 23:55:22: [mapchooser4.amxx] archie chose de_dust2_2x2
+L 04/30/2020 - 23:55:22: [mapchooser4.amxx] lipetsk.ru chose de_dust2_2x2
+L 04/30/2020 - 23:55:29: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2_2x2
+L 04/30/2020 - 23:55:33: -------- Mapchange to de_dust2_2x2 --------
+L 04/30/2020 - 23:55:34: [mapchooser4.amxx] Found 51 maps in maps folder
+L 04/30/2020 - 23:55:41: [mapchooser4.amxx] xvars for mapchooser 4 setuped.

@@ -1,0 +1,280 @@
+L 05/17/2020 - 00:16:27: [admincmd.amxx] Cmd: "RAZ DVA<74><STEAM_0:1:55760822><>" changelevel "de_inferno"
+L 05/17/2020 - 00:16:29: -------- Mapchange to de_inferno --------
+L 05/17/2020 - 00:16:29: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 00:16:30: [admin.amxx] Login: "RAZ DVA<74><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "abcdefghijklmnopqrstu") (address "94.25.174.142")
+L 05/17/2020 - 00:16:37: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 00:44:36: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 00:44:37: [mapchooser4.amxx] archie chose aim_map
+L 05/17/2020 - 00:44:37: [mapchooser4.amxx] [4ka]lipetsk.ru chose map extending
+L 05/17/2020 - 00:44:38: [mapchooser4.amxx] ERECTOR chose de_inferno_2x2
+L 05/17/2020 - 00:44:39: [mapchooser4.amxx] [4ka] Sanych chose de_dust
+L 05/17/2020 - 00:44:42: [mapchooser4.amxx] format c: chose de_dust
+L 05/17/2020 - 00:44:43: [mapchooser4.amxx] [4ka]tsk chose de_inferno_2x2
+L 05/17/2020 - 00:44:45: [mapchooser4.amxx] KABAN chose de_dust
+L 05/17/2020 - 00:44:46: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 05/17/2020 - 00:46:50: -------- Mapchange to de_dust --------
+L 05/17/2020 - 00:46:51: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 00:46:51: [admin.amxx] Login: "RAZ DVA<74><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "abcdefghijklmnopqrstu") (address "94.25.174.142")
+L 05/17/2020 - 00:46:58: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 00:47:37: [admincmd.amxx] Cmd: "RAZ DVA<74><STEAM_0:1:55760822><>" changelevel "de_dust2"
+L 05/17/2020 - 00:47:39: -------- Mapchange to de_dust2 --------
+L 05/17/2020 - 00:47:39: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 00:47:39: [admin.amxx] Login: "RAZ DVA<74><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "abcdefghijklmnopqrstu") (address "94.25.174.142")
+L 05/17/2020 - 00:47:46: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 00:47:53: [admincmd.amxx] Cmd: "RAZ DVA<74><STEAM_0:1:55760822><>" changelevel "de_dust2_2x2"
+L 05/17/2020 - 00:47:55: -------- Mapchange to de_dust2_2x2 --------
+L 05/17/2020 - 00:47:55: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 00:47:55: [admin.amxx] Login: "RAZ DVA<74><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "abcdefghijklmnopqrstu") (address "94.25.174.142")
+L 05/17/2020 - 00:48:02: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 01:04:14: [admin.amxx] Login: "RAZ DVA<88><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "abcdefghijklmnopqrstu") (address "94.25.174.142")
+L 05/17/2020 - 01:11:23: [admin.amxx] Login: "RAZ DVA<90><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "abcdefghijklmnopqrstu") (address "94.25.174.142")
+L 05/17/2020 - 01:16:01: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 01:16:03: [mapchooser4.amxx] [4ka]tsk chose de_inferno_2x2
+L 05/17/2020 - 01:16:05: [mapchooser4.amxx] RAZ DVA chose de_inferno_2x2
+L 05/17/2020 - 01:16:05: [mapchooser4.amxx] [4ka] Sanych chose cs_pf_dust
+L 05/17/2020 - 01:16:07: [mapchooser4.amxx] KABAN chose map extending
+L 05/17/2020 - 01:16:08: [mapchooser4.amxx] [4ka]lipetsk.ru chose map extending
+L 05/17/2020 - 01:16:11: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno_2x2
+L 05/17/2020 - 01:18:12: -------- Mapchange to de_inferno_2x2 --------
+L 05/17/2020 - 01:18:12: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 01:18:19: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 01:46:03: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 01:46:13: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_nuke
+L 05/17/2020 - 01:48:29: -------- Mapchange to de_nuke --------
+L 05/17/2020 - 01:48:29: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 01:48:36: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 02:16:20: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 02:16:30: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 05/17/2020 - 02:18:46: -------- Mapchange to cs_assault --------
+L 05/17/2020 - 02:18:46: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 02:18:53: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 02:46:37: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 02:46:47: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_italy
+L 05/17/2020 - 02:49:03: -------- Mapchange to cs_italy --------
+L 05/17/2020 - 02:49:03: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 02:49:10: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 03:16:54: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 03:17:04: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 05/17/2020 - 03:19:20: -------- Mapchange to de_train --------
+L 05/17/2020 - 03:19:20: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 03:19:27: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 03:47:11: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 03:47:21: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_ak-colt
+L 05/17/2020 - 03:49:37: -------- Mapchange to aim_ak-colt --------
+L 05/17/2020 - 03:49:37: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 03:49:44: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 04:17:28: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 04:17:38: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_aztecplace
+L 05/17/2020 - 04:19:54: -------- Mapchange to aim_aztecplace --------
+L 05/17/2020 - 04:19:54: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 04:20:01: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 04:47:45: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 04:47:55: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 05/17/2020 - 04:50:11: -------- Mapchange to aim_headshot --------
+L 05/17/2020 - 04:50:11: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 04:50:18: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 05:18:02: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 05:18:12: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map
+L 05/17/2020 - 05:20:28: -------- Mapchange to aim_map --------
+L 05/17/2020 - 05:20:28: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 05:20:35: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 05:48:19: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 05:48:29: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_16fighter
+L 05/17/2020 - 05:50:44: -------- Mapchange to cs_16fighter --------
+L 05/17/2020 - 05:50:45: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 05:50:52: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 06:18:36: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 06:18:46: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_pf_dust
+L 05/17/2020 - 06:21:01: -------- Mapchange to cs_pf_dust --------
+L 05/17/2020 - 06:21:02: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 06:21:09: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 06:48:53: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 06:49:03: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_iceworld_2002
+L 05/17/2020 - 06:51:19: -------- Mapchange to fy_iceworld_2002 --------
+L 05/17/2020 - 06:51:20: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 06:51:27: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 07:19:11: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 07:19:21: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_mansion
+L 05/17/2020 - 07:21:37: -------- Mapchange to cs_mansion --------
+L 05/17/2020 - 07:21:38: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 07:21:45: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 07:49:29: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 07:49:39: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_mirage
+L 05/17/2020 - 07:51:55: -------- Mapchange to de_mirage --------
+L 05/17/2020 - 07:51:55: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 07:52:02: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 08:19:46: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 08:19:56: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_snow
+L 05/17/2020 - 08:22:12: -------- Mapchange to fy_snow --------
+L 05/17/2020 - 08:22:12: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 08:22:19: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 08:50:03: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 08:50:13: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2_2x2
+L 05/17/2020 - 08:52:29: -------- Mapchange to de_dust2_2x2 --------
+L 05/17/2020 - 08:52:29: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 08:52:36: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 09:20:20: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 09:20:30: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno_2x2
+L 05/17/2020 - 09:22:46: -------- Mapchange to de_inferno_2x2 --------
+L 05/17/2020 - 09:22:46: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 09:22:53: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 09:50:37: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 09:50:47: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_sniper
+L 05/17/2020 - 09:53:03: -------- Mapchange to de_sniper --------
+L 05/17/2020 - 09:53:04: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 09:53:11: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 10:20:55: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 10:21:05: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_snipe_it5
+L 05/17/2020 - 10:23:20: -------- Mapchange to de_snipe_it5 --------
+L 05/17/2020 - 10:23:21: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 10:23:28: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 10:51:12: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 10:51:22: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be awp_india
+L 05/17/2020 - 10:53:37: -------- Mapchange to awp_india --------
+L 05/17/2020 - 10:53:37: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 10:53:45: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 11:21:29: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 11:21:39: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_discounter
+L 05/17/2020 - 11:23:54: -------- Mapchange to cs_discounter --------
+L 05/17/2020 - 11:23:55: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 11:24:02: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 11:51:46: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 11:51:56: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_rats2
+L 05/17/2020 - 11:54:12: -------- Mapchange to cs_rats2 --------
+L 05/17/2020 - 11:54:12: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 11:54:19: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 12:22:03: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 12:22:13: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_rats
+L 05/17/2020 - 12:24:29: -------- Mapchange to de_rats --------
+L 05/17/2020 - 12:24:29: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 12:24:36: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 12:52:20: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 12:52:30: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_pool_day
+L 05/17/2020 - 12:54:46: -------- Mapchange to fy_pool_day --------
+L 05/17/2020 - 12:54:46: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 12:54:53: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 13:22:37: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 13:22:47: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_train
+L 05/17/2020 - 13:25:03: -------- Mapchange to fy_train --------
+L 05/17/2020 - 13:25:03: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 13:25:10: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 13:52:54: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 13:53:04: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 05/17/2020 - 13:55:20: -------- Mapchange to de_aztec --------
+L 05/17/2020 - 13:55:20: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 13:55:27: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 14:23:11: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 14:23:21: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_cbble
+L 05/17/2020 - 14:25:37: -------- Mapchange to de_cbble --------
+L 05/17/2020 - 14:25:37: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 14:25:44: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 14:53:29: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 14:53:39: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_cpl_mill
+L 05/17/2020 - 14:55:54: -------- Mapchange to de_cpl_mill --------
+L 05/17/2020 - 14:55:54: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 14:56:02: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 15:23:46: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 15:23:56: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 05/17/2020 - 15:26:11: -------- Mapchange to de_dust --------
+L 05/17/2020 - 15:26:11: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 15:26:19: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 15:54:03: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 15:54:13: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2
+L 05/17/2020 - 15:56:28: -------- Mapchange to de_dust2 --------
+L 05/17/2020 - 15:56:29: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 15:56:36: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 16:24:20: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 16:24:30: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno
+L 05/17/2020 - 16:26:45: -------- Mapchange to de_inferno --------
+L 05/17/2020 - 16:26:46: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 16:26:53: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 16:54:37: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 16:54:47: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_nuke
+L 05/17/2020 - 16:57:03: -------- Mapchange to de_nuke --------
+L 05/17/2020 - 16:57:03: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 16:57:10: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 17:24:54: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 17:25:04: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 05/17/2020 - 17:27:20: -------- Mapchange to cs_assault --------
+L 05/17/2020 - 17:27:20: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 17:27:27: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 17:55:11: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 17:55:22: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_italy
+L 05/17/2020 - 17:57:37: -------- Mapchange to cs_italy --------
+L 05/17/2020 - 17:57:38: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 17:57:45: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 18:25:29: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 18:25:39: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 05/17/2020 - 18:27:55: -------- Mapchange to de_train --------
+L 05/17/2020 - 18:27:55: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 18:28:02: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 18:55:46: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 18:55:56: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_ak-colt
+L 05/17/2020 - 18:58:12: -------- Mapchange to aim_ak-colt --------
+L 05/17/2020 - 18:58:12: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 18:58:19: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 19:26:03: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 19:26:13: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_aztecplace
+L 05/17/2020 - 19:28:29: -------- Mapchange to aim_aztecplace --------
+L 05/17/2020 - 19:28:29: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 19:28:36: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 19:56:20: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 19:56:30: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 05/17/2020 - 19:58:46: -------- Mapchange to aim_headshot --------
+L 05/17/2020 - 19:58:46: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 19:58:53: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 20:26:37: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 20:26:47: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map
+L 05/17/2020 - 20:29:02: -------- Mapchange to aim_map --------
+L 05/17/2020 - 20:29:03: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 20:29:10: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 20:56:54: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 20:57:04: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_16fighter
+L 05/17/2020 - 20:59:19: -------- Mapchange to cs_16fighter --------
+L 05/17/2020 - 20:59:20: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 20:59:27: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 21:27:11: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 21:27:21: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_pf_dust
+L 05/17/2020 - 21:29:37: -------- Mapchange to cs_pf_dust --------
+L 05/17/2020 - 21:29:37: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 21:29:44: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 22:03:50: [admin.amxx] Login: "RAZ DVA<101><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "abcdefghijklmnopqrstu") (address "94.25.174.154")
+L 05/17/2020 - 22:11:20: -------- Mapchange to de_dust2_2x2 --------
+L 05/17/2020 - 22:11:21: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 22:11:21: [admin.amxx] Login: "RAZ DVA<101><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "abcdefghijklmnopqrstu") (address "94.25.174.154")
+L 05/17/2020 - 22:11:28: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 22:29:57: -------- Mapchange to de_dust2 --------
+L 05/17/2020 - 22:29:57: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 22:29:57: [admin.amxx] Login: "RAZ DVA<101><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "abcdefghijklmnopqrstu") (address "94.25.174.154")
+L 05/17/2020 - 22:30:04: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 22:58:03: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 22:58:05: [mapchooser4.amxx] +q chose de_dust
+L 05/17/2020 - 22:58:06: [mapchooser4.amxx] RAZ DVA chose de_nuke
+L 05/17/2020 - 22:58:07: [mapchooser4.amxx] Player chose de_cbble
+L 05/17/2020 - 22:58:10: [mapchooser4.amxx] format c: chose de_dust
+L 05/17/2020 - 22:58:10: [mapchooser4.amxx] [4ka]lipetsk.ru chose map extending
+L 05/17/2020 - 22:58:10: [mapchooser4.amxx] necnec chose de_cbble
+L 05/17/2020 - 22:58:12: [mapchooser4.amxx] ERECTOR chose de_nuke
+L 05/17/2020 - 22:58:13: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 05/17/2020 - 22:59:49: [admincmd.amxx] Cmd: "RAZ DVA<101><STEAM_0:1:55760822><>" changelevel "de_dust2"
+L 05/17/2020 - 22:59:51: -------- Mapchange to de_dust2 --------
+L 05/17/2020 - 22:59:51: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 22:59:52: [admin.amxx] Login: "RAZ DVA<101><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "abcdefghijklmnopqrstu") (address "94.25.174.154")
+L 05/17/2020 - 22:59:58: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 23:20:24: -------- Mapchange to de_inferno --------
+L 05/17/2020 - 23:20:24: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 23:20:24: [admin.amxx] Login: "RAZ DVA<101><STEAM_0:1:55760822><>" became an admin (account "STEAM_0:1:55760822") (access "abcdefghijklmnopqrstu") (address "94.25.174.154")
+L 05/17/2020 - 23:20:31: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/17/2020 - 23:48:31: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/17/2020 - 23:48:33: [mapchooser4.amxx] +q chose de_train
+L 05/17/2020 - 23:48:33: [mapchooser4.amxx] [4ka]lipetsk.ru chose de_cbble
+L 05/17/2020 - 23:48:34: [mapchooser4.amxx] necnec chose de_train
+L 05/17/2020 - 23:48:34: [mapchooser4.amxx] ERECTOR chose de_dust
+L 05/17/2020 - 23:48:34: [mapchooser4.amxx] [4ka] shura chose de_dust
+L 05/17/2020 - 23:48:35: [mapchooser4.amxx] Frap chose de_cbble
+L 05/17/2020 - 23:48:35: [mapchooser4.amxx] [4ka] Sanych chose de_dust
+L 05/17/2020 - 23:48:36: [mapchooser4.amxx] format c: chose de_dust
+L 05/17/2020 - 23:48:41: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 05/17/2020 - 23:50:43: -------- Mapchange to de_dust --------
+L 05/17/2020 - 23:50:44: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/17/2020 - 23:50:51: [mapchooser4.amxx] xvars for mapchooser 4 setuped.

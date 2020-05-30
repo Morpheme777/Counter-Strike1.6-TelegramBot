@@ -1,0 +1,4 @@
+L 04/19/2020 - 01:23:24: Start of error session.
+L 04/19/2020 - 01:23:24: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20200419.log")
+L 04/19/2020 - 01:23:24: [AMXX] Run time error 4 (plugin "almod_mapv.amxx") - debug not enabled!
+L 04/19/2020 - 01:23:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

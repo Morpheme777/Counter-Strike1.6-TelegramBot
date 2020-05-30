@@ -1,0 +1,82 @@
+L 04/10/2020 - 00:24:21: -------- Mapchange to de_cbble --------
+L 04/10/2020 - 01:41:06: -------- Mapchange to de_dust --------
+L 04/10/2020 - 02:57:51: -------- Mapchange to cs_747 --------
+L 04/10/2020 - 04:14:36: -------- Mapchange to de_prodigy --------
+L 04/10/2020 - 05:31:20: -------- Mapchange to cs_assault --------
+L 04/10/2020 - 06:48:04: -------- Mapchange to cs_office --------
+L 04/10/2020 - 08:04:47: -------- Mapchange to cs_italy --------
+L 04/10/2020 - 09:21:31: -------- Mapchange to cs_backalley --------
+L 04/10/2020 - 10:38:15: -------- Mapchange to cs_militia --------
+L 04/10/2020 - 11:54:59: -------- Mapchange to de_train --------
+L 04/10/2020 - 13:11:45: -------- Mapchange to de_airstrip --------
+L 04/10/2020 - 14:28:30: -------- Mapchange to cs_havana --------
+L 04/10/2020 - 15:45:14: -------- Mapchange to de_chateau --------
+L 04/10/2020 - 17:01:59: -------- Mapchange to de_aztec --------
+L 04/10/2020 - 18:09:33: -------- Mapchange to de_dust2 --------
+L 04/10/2020 - 18:10:08: -------- Mapchange to de_dust2_2x2 --------
+L 04/10/2020 - 18:40:16: -------- Mapchange to cs_siege --------
+L 04/10/2020 - 19:10:26: -------- Mapchange to de_cbble --------
+L 04/10/2020 - 19:22:25: -------- Mapchange to fy_iceworld_2002 --------
+L 04/10/2020 - 19:24:02: [admin.amxx] Login: "Diablo<4><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 19:54:26: -------- Mapchange to de_prodigy --------
+L 04/10/2020 - 19:54:28: [admin.amxx] Login: "Diablo<4><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 19:54:59: [adminvote.amxx] Vote: "Diablo<4><STEAM_0:1:21335723><>" vote custom (question "cs_pf_dust") (option#1 "fy_iceworld_2002") (option#2 "de_dust2")
+L 04/10/2020 - 19:55:11: [adminvote.amxx] Vote: Voting successful (got "1") (needed "1") (result "cs_pf_dust - de_dust2")
+L 04/10/2020 - 19:57:17: -------- Mapchange to de_dust2_2x2 --------
+L 04/10/2020 - 19:57:18: [admin.amxx] Login: "Diablo<4><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 20:27:43: -------- Mapchange to cs_italy --------
+L 04/10/2020 - 20:27:44: [admin.amxx] Login: "Diablo<4><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 20:28:21: [mapsmenu.amxx] Vote: "Diablo<4><STEAM_0:1:21335723><>" vote maps (map#1 "cs_pf_dust") (map#2 "cs_16fighter") (map#3 "aim_headshot") (map#4 "aim_map")
+L 04/10/2020 - 20:28:34: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to cs_pf_dust
+L 04/10/2020 - 20:28:37: [mapsmenu.amxx] Vote: Result accepted
+L 04/10/2020 - 20:28:40: -------- Mapchange to cs_pf_dust --------
+L 04/10/2020 - 20:28:40: [admin.amxx] Login: "Diablo<4><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 20:52:38: [mapsmenu.amxx] Vote: "Diablo<4><STEAM_0:1:21335723><>" vote maps (map#1 "de_aztec") (map#2 "de_dust") (map#3 "aim_ak-colt") (map#4 "aim_headshot")
+L 04/10/2020 - 20:52:50: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to de_aztec
+L 04/10/2020 - 20:52:52: [mapsmenu.amxx] Vote: Result accepted
+L 04/10/2020 - 20:52:54: -------- Mapchange to de_aztec --------
+L 04/10/2020 - 20:52:55: [admin.amxx] Login: "Diablo<4><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 21:15:14: [mapsmenu.amxx] Vote: "Diablo<4><STEAM_0:1:21335723><>" vote maps (map#1 "de_dust") (map#2 "aim_ak-colt") (map#3 "aim_headshot") (map#4 "aim_map")
+L 04/10/2020 - 21:15:26: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to de_dust
+L 04/10/2020 - 21:15:31: [mapsmenu.amxx] Vote: Result accepted
+L 04/10/2020 - 21:15:34: -------- Mapchange to de_dust --------
+L 04/10/2020 - 21:15:35: [admin.amxx] Login: "Diablo<4><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 21:21:46: -------- Mapchange to de_inferno --------
+L 04/10/2020 - 21:21:47: [admin.amxx] Login: "Diablo<4><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 21:23:48: [mapsmenu.amxx] Vote: "Diablo<4><STEAM_0:1:21335723><>" vote maps (map#1 "de_inferno_2x2") (map#2 "") (map#3 "") (map#4 "")
+L 04/10/2020 - 21:24:00: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to de_inferno_2x2
+L 04/10/2020 - 21:24:02: [mapsmenu.amxx] Vote: Result accepted
+L 04/10/2020 - 21:24:04: -------- Mapchange to de_inferno_2x2 --------
+L 04/10/2020 - 21:24:05: [admin.amxx] Login: "Diablo<4><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 21:25:49: -------- Mapchange to de_inferno --------
+L 04/10/2020 - 21:25:50: [admin.amxx] Login: "Diablo<4><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 21:41:46: -------- Mapchange to de_dust2 --------
+L 04/10/2020 - 21:42:41: -------- Mapchange to de_dust2 --------
+L 04/10/2020 - 21:42:48: -------- Mapchange to de_mipt --------
+L 04/10/2020 - 21:42:50: -------- Mapchange to de_mipt --------
+L 04/10/2020 - 21:43:10: [admin.amxx] Login: "Diablo<8><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 21:45:15: -------- Mapchange to de_dust2 --------
+L 04/10/2020 - 21:45:16: [admin.amxx] Login: "Diablo<8><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 21:50:02: [admin.amxx] Login: "Diablo<22><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 22:13:45: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/10/2020 - 22:14:00: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno_2x2
+L 04/10/2020 - 22:15:59: -------- Mapchange to de_inferno_2x2 --------
+L 04/10/2020 - 22:15:59: [admin.amxx] Login: "Diablo<22><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 22:17:31: -------- Mapchange to cs_assault --------
+L 04/10/2020 - 22:17:31: [admin.amxx] Login: "Diablo<22><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 22:43:20: -------- Mapchange to cs_italy --------
+L 04/10/2020 - 22:43:20: [admin.amxx] Login: "Diablo<22><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 22:43:35: -------- Mapchange to cs_estate --------
+L 04/10/2020 - 22:43:36: [admin.amxx] Login: "Diablo<22><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 22:44:15: -------- Mapchange to de_train --------
+L 04/10/2020 - 22:44:15: [admin.amxx] Login: "Diablo<22><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 22:53:34: -------- Mapchange to cs_discounter --------
+L 04/10/2020 - 22:53:35: [admin.amxx] Login: "Diablo<22><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/10/2020 - 23:08:41: -------- Mapchange to de_mipt --------
+L 04/10/2020 - 23:15:11: -------- Mapchange to de_chateau --------
+L 04/10/2020 - 23:16:05: -------- Mapchange to de_chernobyl --------
+L 04/10/2020 - 23:22:24: -------- Mapchange to de_rats --------
+L 04/10/2020 - 23:24:38: -------- Mapchange to fy_pool_day --------
+L 04/10/2020 - 23:52:38: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/10/2020 - 23:52:53: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_iceworld_2002
+L 04/10/2020 - 23:55:19: -------- Mapchange to fy_iceworld_2002 --------

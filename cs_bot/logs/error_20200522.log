@@ -1,0 +1,10 @@
+L 05/22/2020 - 22:07:25: Start of error session.
+L 05/22/2020 - 22:07:25: Info (map "de_aztec") (file "addons/amxmodx/logs/error_20200522.log")
+L 05/22/2020 - 22:07:25: Couldn't write file "cstrike/"
+L 05/22/2020 - 22:07:25: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "write_file") - debug not enabled!
+L 05/22/2020 - 22:07:25: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 05/22/2020 - 22:07:26: Start of error session.
+L 05/22/2020 - 22:07:26: Info (map "de_aztec") (file "addons/amxmodx/logs/error_20200522.log")
+L 05/22/2020 - 22:07:26: Couldn't write file "cstrike/"
+L 05/22/2020 - 22:07:26: [AMXX] Run time error 10 (plugin "mapchooser4.amxx") (native "write_file") - debug not enabled!
+L 05/22/2020 - 22:07:26: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

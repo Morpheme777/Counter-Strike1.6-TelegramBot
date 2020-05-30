@@ -10,7 +10,7 @@ import json
 
 
 DAYS_DOUBLE_DECAY = 7
-MIN_WEIGHTED_KILLS = 10
+MIN_WEIGHTED_KILLS = 50
 SMOOTH_WINDOW_DAYS = 5
 WORK_DIR = os.path.dirname(os.path.realpath(__file__))
 IMG_FOLDER = WORK_DIR + '/img'

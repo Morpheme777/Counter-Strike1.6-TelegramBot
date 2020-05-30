@@ -1,0 +1,122 @@
+L 04/11/2020 - 00:07:35: -------- Mapchange to jail_xmf --------
+L 04/11/2020 - 00:12:17: -------- Mapchange to cs_rats2 --------
+L 04/11/2020 - 00:40:16: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 00:40:31: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno_2x2
+L 04/11/2020 - 00:42:57: -------- Mapchange to de_inferno_2x2 --------
+L 04/11/2020 - 01:10:56: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 01:11:12: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_sniper
+L 04/11/2020 - 01:13:38: -------- Mapchange to de_sniper --------
+L 04/11/2020 - 01:41:37: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 01:41:52: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_snipe_it5
+L 04/11/2020 - 01:44:18: -------- Mapchange to de_snipe_it5 --------
+L 04/11/2020 - 02:12:18: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 02:12:33: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_mipt
+L 04/11/2020 - 02:14:59: -------- Mapchange to de_mipt --------
+L 04/11/2020 - 02:42:58: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 02:43:13: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 04/11/2020 - 02:45:39: -------- Mapchange to de_aztec --------
+L 04/11/2020 - 02:47:41: -------- Mapchange to de_dust2 --------
+L 04/11/2020 - 02:48:44: [admin.amxx] Login: "Diablo<1><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 02:50:06: [admincmd.amxx] Kick: "Diablo<1><STEAM_0:1:21335723><>" kick "Diablo<1><STEAM_0:1:21335723><>" (reason "")
+L 04/11/2020 - 02:50:13: [admin.amxx] Login: "Diablo<2><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 02:56:41: -------- Mapchange to de_dust2 --------
+L 04/11/2020 - 02:56:51: [admin.amxx] Login: "Diablo<1><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 02:59:54: -------- Mapchange to de_dust2 --------
+L 04/11/2020 - 03:00:35: [admin.amxx] Login: "Diablo<1><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 03:03:20: [pluginmenu.amxx] Cmd: "Diablo<1><STEAM_0:1:21335723><>" set cvar (name "amx_deadchat") (value "1")
+L 04/11/2020 - 03:03:44: [pluginmenu.amxx] Cmd: "Diablo<1><STEAM_0:1:21335723><>" set cvar (name "amx_admin_pa_mute") (value "0")
+L 04/11/2020 - 03:04:37: -------- Mapchange to de_dust2 --------
+L 04/11/2020 - 03:04:46: [admin.amxx] Login: "Diablo<1><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 03:05:48: [admin.amxx] Login: "Diablo<1><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 03:32:38: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 03:32:53: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 04/11/2020 - 03:34:47: -------- Mapchange to de_aztec --------
+L 04/11/2020 - 03:52:39: -------- Mapchange to cs_mansion --------
+L 04/11/2020 - 04:20:39: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 04:20:54: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_cbble
+L 04/11/2020 - 04:22:48: -------- Mapchange to de_cbble --------
+L 04/11/2020 - 04:50:47: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 04:51:02: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 04/11/2020 - 04:52:57: -------- Mapchange to de_dust --------
+L 04/11/2020 - 05:20:56: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 05:21:11: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_prodigy
+L 04/11/2020 - 05:23:06: -------- Mapchange to de_prodigy --------
+L 04/11/2020 - 05:51:05: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 05:51:20: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 04/11/2020 - 05:53:14: -------- Mapchange to cs_assault --------
+L 04/11/2020 - 06:21:14: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 06:21:29: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_italy
+L 04/11/2020 - 06:23:23: -------- Mapchange to cs_italy --------
+L 04/11/2020 - 06:51:22: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 06:51:38: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_militia
+L 04/11/2020 - 06:53:32: -------- Mapchange to cs_militia --------
+L 04/11/2020 - 07:21:31: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 07:21:46: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 04/11/2020 - 07:23:41: -------- Mapchange to de_train --------
+L 04/11/2020 - 07:51:40: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 07:51:55: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_ak-colt
+L 04/11/2020 - 07:53:49: -------- Mapchange to aim_ak-colt --------
+L 04/11/2020 - 08:21:48: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 08:22:03: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 04/11/2020 - 08:23:57: -------- Mapchange to aim_headshot --------
+L 04/11/2020 - 08:51:57: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 08:52:12: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map
+L 04/11/2020 - 08:54:06: -------- Mapchange to aim_map --------
+L 04/11/2020 - 09:22:05: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 09:22:20: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_16fighter
+L 04/11/2020 - 09:24:14: -------- Mapchange to cs_16fighter --------
+L 04/11/2020 - 09:52:14: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 09:52:29: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_pf_dust
+L 04/11/2020 - 09:54:23: -------- Mapchange to cs_pf_dust --------
+L 04/11/2020 - 10:22:22: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 10:22:37: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_iceworld_2002
+L 04/11/2020 - 10:24:31: -------- Mapchange to fy_iceworld_2002 --------
+L 04/11/2020 - 10:52:31: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 10:52:46: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_mansion
+L 04/11/2020 - 10:54:40: -------- Mapchange to cs_mansion --------
+L 04/11/2020 - 11:22:40: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 11:22:55: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2_2x2
+L 04/11/2020 - 11:24:49: -------- Mapchange to de_dust2_2x2 --------
+L 04/11/2020 - 11:52:49: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 11:53:04: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno_2x2
+L 04/11/2020 - 11:54:58: -------- Mapchange to de_inferno_2x2 --------
+L 04/11/2020 - 11:57:31: -------- Mapchange to de_mipt --------
+L 04/11/2020 - 11:58:04: [admin.amxx] Login: "Diablo<2><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 18:52:32: -------- Mapchange to de_dust2 --------
+L 04/11/2020 - 18:52:53: -------- Mapchange to fy_pool_day --------
+L 04/11/2020 - 18:53:02: [admin.amxx] Login: "Diablo<1><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 18:57:28: [mapsmenu.amxx] Vote: "Diablo<1><STEAM_0:1:21335723><>" vote maps (map#1 "cs_16fighter") (map#2 "fy_iceworld_2002") (map#3 "") (map#4 "")
+L 04/11/2020 - 18:57:40: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to fy_iceworld_2002
+L 04/11/2020 - 18:57:44: [mapsmenu.amxx] Vote: Result accepted
+L 04/11/2020 - 18:57:46: -------- Mapchange to fy_iceworld_2002 --------
+L 04/11/2020 - 18:57:47: [admin.amxx] Login: "Diablo<1><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 19:00:17: -------- Mapchange to de_inferno --------
+L 04/11/2020 - 19:00:18: [admin.amxx] Login: "Diablo<1><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 19:28:31: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 19:28:47: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_cbble
+L 04/11/2020 - 19:30:39: -------- Mapchange to de_cbble --------
+L 04/11/2020 - 19:36:20: -------- Mapchange to de_dust2 --------
+L 04/11/2020 - 19:52:29: [admin.amxx] Login: "Diablo<12><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 20:04:19: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 20:04:34: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 04/11/2020 - 20:06:27: -------- Mapchange to de_nuke --------
+L 04/11/2020 - 20:06:28: [admin.amxx] Login: "Diablo<12><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 20:34:42: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 20:34:57: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 04/11/2020 - 20:36:50: -------- Mapchange to de_train --------
+L 04/11/2020 - 20:36:56: [admin.amxx] Login: "Diablo<12><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 20:52:14: -------- Mapchange to cs_italy --------
+L 04/11/2020 - 20:52:14: [admin.amxx] Login: "Diablo<12><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 20:53:10: -------- Mapchange to de_inferno --------
+L 04/11/2020 - 20:53:11: [admin.amxx] Login: "Diablo<12><STEAM_0:1:21335723><>" became an admin (account "STEAM_0:1:21335723") (access "abcdefghijklmnopqrstu") (address "176.99.165.226")
+L 04/11/2020 - 21:42:55: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 21:43:10: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_pool_day
+L 04/11/2020 - 21:45:12: -------- Mapchange to fy_pool_day --------
+L 04/11/2020 - 22:13:12: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 22:13:27: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_militia
+L 04/11/2020 - 22:37:16: -------- Mapchange to cs_militia --------
+L 04/11/2020 - 23:05:16: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 23:05:31: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 04/11/2020 - 23:29:19: -------- Mapchange to de_train --------
+L 04/11/2020 - 23:57:20: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 04/11/2020 - 23:57:35: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_ak-colt

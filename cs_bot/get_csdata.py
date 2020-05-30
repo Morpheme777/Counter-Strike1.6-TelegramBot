@@ -2,12 +2,32 @@ from csdata import CSStats
 import json
 import datetime
 import os
+from ftplib import FTP
+from struct import *
 
 WORK_DIR = os.path.dirname(os.path.realpath(__file__))
 DATA_FOLDER = WORK_DIR + "/data"
+LOGS_FOLDER = WORK_DIR + "/logs"
+
+
+def downloadLogs():
+    ftp = FTP(host='83.222.115.202')
+    ftp.login(user='gs7336', passwd='UoN8pudmG')
+    ftp.cwd('addons/amxmodx/logs/')
+
+    filenames = ftp.nlst() # get filenames within the directory
+
+    for filename in filenames:
+        local_filename = os.path.join('{}/'.format(LOGS_FOLDER), filename)
+        file = open(local_filename, 'wb')
+        ftp.retrbinary('RETR '+ filename, file.write)
+
+        file.close()
+
+    ftp.quit()
 
 def main():
-
+    downloadLogs()
     if not os.path.exists(DATA_FOLDER):
         os.mkdir(DATA_FOLDER)
 
