@@ -180,7 +180,7 @@ def render_pvp_matrix(players, pvp_matrix):
 if __name__ == '__main__':
     df_ranking, steam_id2nick = main(dfs)
 
-    lp = LogsParser('logs')
+    lp = LogsParser('{}/logs'.format(WORK_DIR))
     stat_collector = lp.parse()
 
     steam_ids, pvp_matrix = stat_collector.get_pvp_stats()

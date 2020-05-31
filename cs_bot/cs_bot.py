@@ -59,12 +59,12 @@ def main():
 
     @bot.message_handler(commands=['help'])
     def user_stat(message):
-        msg = "{}\n{}\n{}".format(
-            help('stat', 'Player stats'),
-            help('srv', 'Server status'),
-            help('rank', "Players' rank"),
-            help('pvp', "Players' pvp")
-        )
+        msg = "\n".join([
+            help('stat', 'Статистика игрока. Пунктир - статистика за сутки, сплошная линия - усредненное значение.\n'),
+            help('srv', 'Статус сервера: карта, кол-во игроков, список игроков.\n'),
+            help('rank', "Рейтинг игроков. Обновляется раз в час.\n"),
+            help('pvp', "Отношение kills/deaths в PvP. Зеленое - хорошо, красное - плохо. Обновляется раз в час.\n")
+        ])
         bot.reply_to(message, msg)
 
     @bot.message_handler(commands=['srv'])

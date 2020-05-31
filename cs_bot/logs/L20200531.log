@@ -8,3 +8,154 @@ L 05/31/2020 - 00:00:58: [killlog.amxx] [VALET]: [T]|STEAM_0:0:1931658130 killed
 L 05/31/2020 - 00:01:15: -------- Mapchange to de_sniper --------
 L 05/31/2020 - 00:01:16: [mapchooser4.amxx] Found 51 maps in maps folder
 L 05/31/2020 - 00:01:23: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/31/2020 - 01:13:07: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/31/2020 - 01:13:17: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 05/31/2020 - 01:16:49: -------- Mapchange to de_train --------
+L 05/31/2020 - 01:16:50: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/31/2020 - 01:16:57: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/31/2020 - 02:28:41: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 05/31/2020 - 02:28:51: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_ak-colt
+L 05/31/2020 - 02:32:23: -------- Mapchange to aim_ak-colt --------
+L 05/31/2020 - 02:32:23: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/31/2020 - 02:32:30: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/31/2020 - 21:12:26: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:947796992 with headshot using ak47!
+L 05/31/2020 - 21:12:56: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:0:620094512 using m4a1!
+L 05/31/2020 - 21:12:57: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:947796992 using ak47!
+L 05/31/2020 - 21:13:09: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:947796992 using ak47!
+L 05/31/2020 - 21:13:14: [killlog.amxx] [VALET]: [T]|STEAM_0:0:620094512 committed suicide using world!
+L 05/31/2020 - 21:13:34: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:433215089 using m4a1!
+L 05/31/2020 - 21:13:34: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:620094512 killed [CT]|STEAM_0:1:484581202 using m4a1!
+L 05/31/2020 - 21:13:48: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 using m4a1!
+L 05/31/2020 - 21:13:55: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:947796992 using ak47!
+L 05/31/2020 - 21:14:18: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:14:38: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:14:39: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 with headshot using m4a1!
+L 05/31/2020 - 21:14:42: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:947796992 using ak47!
+L 05/31/2020 - 21:14:55: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:15:03: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 with headshot using m4a1!
+L 05/31/2020 - 21:15:09: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:433215089 using m4a1!
+L 05/31/2020 - 21:15:28: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:620094512 killed [CT]|STEAM_0:1:484581202 using m4a1!
+L 05/31/2020 - 21:15:46: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:620094512 killed [CT]|STEAM_0:1:433215089 using m4a1!
+L 05/31/2020 - 21:16:01: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:433215089 using m4a1!
+L 05/31/2020 - 21:16:12: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 using usp!
+L 05/31/2020 - 21:16:32: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 using m4a1!
+L 05/31/2020 - 21:16:33: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:947796992 using ak47!
+L 05/31/2020 - 21:16:41: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:16:54: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:16:54: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 using m4a1!
+L 05/31/2020 - 21:16:55: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:433215089 using m4a1!
+L 05/31/2020 - 21:17:15: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:620094512 with headshot using ak47!
+L 05/31/2020 - 21:17:18: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:433215089 using m4a1!
+L 05/31/2020 - 21:17:21: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:947796992 with headshot using ak47!
+L 05/31/2020 - 21:17:38: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:433215089 with headshot using m4a1!
+L 05/31/2020 - 21:17:38: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 with headshot using m4a1!
+L 05/31/2020 - 21:17:56: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:947796992 with headshot using ak47!
+L 05/31/2020 - 21:18:02: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:18:19: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:947796992 using ak47!
+L 05/31/2020 - 21:18:31: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:620094512 with headshot using ak47!
+L 05/31/2020 - 21:18:56: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:433215089 with headshot using m4a1!
+L 05/31/2020 - 21:18:57: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 with headshot using m4a1!
+L 05/31/2020 - 21:19:14: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:620094512 killed [CT]|STEAM_0:1:12549369 with headshot using m4a1!
+L 05/31/2020 - 21:19:15: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:620094512 killed [CT]|STEAM_0:1:433215089 using m4a1!
+L 05/31/2020 - 21:19:16: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:19:20: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 with headshot using m4a1!
+L 05/31/2020 - 21:19:34: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:19:47: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:947796992 with headshot using ak47!
+L 05/31/2020 - 21:20:07: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:620094512 killed [CT]|STEAM_0:1:12549369 using m4a1!
+L 05/31/2020 - 21:20:10: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:20:13: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:433215089 using m4a1!
+L 05/31/2020 - 21:20:21: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 using m4a1!
+L 05/31/2020 - 21:20:39: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:433215089 using m4a1!
+L 05/31/2020 - 21:20:44: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 with headshot using m4a1!
+L 05/31/2020 - 21:20:55: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:21:12: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:947796992 using ak47!
+L 05/31/2020 - 21:21:15: -------- Mapchange to de_dust2_2x2 --------
+L 05/31/2020 - 21:21:15: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/31/2020 - 21:21:22: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/31/2020 - 21:21:44: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 with headshot using usp!
+L 05/31/2020 - 21:21:45: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:620094512 using deagle!
+L 05/31/2020 - 21:22:12: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:947796992 using glock18!
+L 05/31/2020 - 21:22:28: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:484516970 killed [CT]|STEAM_0:1:12549369 with headshot using usp!
+L 05/31/2020 - 21:23:06: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:1:484516970 using deagle!
+L 05/31/2020 - 21:23:30: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:1:484516970 using ak47!
+L 05/31/2020 - 21:23:31: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:947796992 with headshot using ak47!
+L 05/31/2020 - 21:23:36: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:24:03: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:1:484516970 using galil!
+L 05/31/2020 - 21:24:12: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:947796992 using galil!
+L 05/31/2020 - 21:24:16: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:620094512 using galil!
+L 05/31/2020 - 21:24:37: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:947796992 using ak47!
+L 05/31/2020 - 21:24:39: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:620094512 with headshot using galil!
+L 05/31/2020 - 21:24:55: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:1:484516970 using ak47!
+L 05/31/2020 - 21:25:54: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:620094512 using galil!
+L 05/31/2020 - 21:25:54: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:484516970 killed [CT]|STEAM_0:1:484581202 with headshot using famas!
+L 05/31/2020 - 21:26:13: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:947796992 using ak47!
+L 05/31/2020 - 21:26:15: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:388099385 using ak47!
+L 05/31/2020 - 21:26:17: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:1:484516970 with headshot using ak47!
+L 05/31/2020 - 21:26:42: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:947796992 with headshot using ak47!
+L 05/31/2020 - 21:26:43: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:1:484516970 using awp!
+L 05/31/2020 - 21:26:47: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:27:50: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:12549369 using m4a1!
+L 05/31/2020 - 21:28:18: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:947796992 with headshot using ak47!
+L 05/31/2020 - 21:28:31: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:1:484516970 with headshot using ak47!
+L 05/31/2020 - 21:28:37: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:620094512 with headshot using ak47!
+L 05/31/2020 - 21:29:35: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:388099385 using awp!
+L 05/31/2020 - 21:29:57: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:620094512 using awp!
+L 05/31/2020 - 21:30:08: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:1:484516970 using awp!
+L 05/31/2020 - 21:30:30: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:388099385 with headshot using ak47!
+L 05/31/2020 - 21:31:16: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:947796992 using awp!
+L 05/31/2020 - 21:31:45: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:484516970 killed [CT]|STEAM_0:1:433215089 using m4a1!
+L 05/31/2020 - 21:32:10: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:484581202 using awp!
+L 05/31/2020 - 21:32:11: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:484516970 killed [CT]|STEAM_0:1:12549369 using m4a1!
+L 05/31/2020 - 21:32:47: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 with headshot using m4a1!
+L 05/31/2020 - 21:32:57: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:433215089 with headshot using m4a1!
+L 05/31/2020 - 21:33:02: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:12549369 with headshot using awp!
+L 05/31/2020 - 21:33:30: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:947796992 using galil!
+L 05/31/2020 - 21:33:42: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:12549369 using awp!
+L 05/31/2020 - 21:33:47: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:620094512 killed [CT]|STEAM_0:1:433215089 using m4a1!
+L 05/31/2020 - 21:33:49: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:1:484516970 using galil!
+L 05/31/2020 - 21:33:56: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:620094512 with headshot using galil!
+L 05/31/2020 - 21:34:04: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:388099385 using galil!
+L 05/31/2020 - 21:34:32: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:433215089 using awp!
+L 05/31/2020 - 21:34:49: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 with headshot using m4a1!
+L 05/31/2020 - 21:34:54: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:1:484516970 with headshot using ak47!
+L 05/31/2020 - 21:34:56: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:35:07: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:12549369 using m4a1!
+L 05/31/2020 - 21:35:37: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:1:484516970 with headshot using ak47!
+L 05/31/2020 - 21:35:56: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:620094512 with headshot using ak47!
+L 05/31/2020 - 21:36:00: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:484581202 using awp!
+L 05/31/2020 - 21:36:04: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:947796992 using ak47!
+L 05/31/2020 - 21:36:11: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:388099385 with headshot using ak47!
+L 05/31/2020 - 21:36:34: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:1:484516970 using ak47!
+L 05/31/2020 - 21:36:50: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:433215089 with headshot using m4a1!
+L 05/31/2020 - 21:36:52: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:36:57: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 with headshot using m4a1!
+L 05/31/2020 - 21:37:13: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:388099385 with headshot using ak47!
+L 05/31/2020 - 21:37:18: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:947796992 with headshot using ak47!
+L 05/31/2020 - 21:37:47: -------- Mapchange to de_aztec --------
+L 05/31/2020 - 21:37:47: [mapchooser4.amxx] Found 51 maps in maps folder
+L 05/31/2020 - 21:37:54: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 05/31/2020 - 21:38:23: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:947796992 using glock18!
+L 05/31/2020 - 21:38:28: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:620094512 using deagle!
+L 05/31/2020 - 21:38:40: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:388099385 with headshot using deagle!
+L 05/31/2020 - 21:38:52: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:1931658130 killed [CT]|STEAM_0:1:484581202 using usp!
+L 05/31/2020 - 21:38:53: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:1931658130 killed [CT]|STEAM_0:1:484516970 with headshot using usp!
+L 05/31/2020 - 21:39:07: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:1931658130 using usp!
+L 05/31/2020 - 21:39:32: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:388099385 using galil!
+L 05/31/2020 - 21:39:33: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:484581202 using usp!
+L 05/31/2020 - 21:39:34: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:947796992 with headshot using ak47!
+L 05/31/2020 - 21:39:36: [killlog.amxx] [VALET]: [T]|STEAM_0:0:104561756 killed [T]|STEAM_0:0:1931658130 with headshot using ak47!
+L 05/31/2020 - 21:39:39: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:620094512 using ak47!
+L 05/31/2020 - 21:40:10: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:12549369 with headshot using deagle!
+L 05/31/2020 - 21:40:12: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:620094512 with headshot using ak47!
+L 05/31/2020 - 21:40:15: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:484516970 with headshot using deagle!
+L 05/31/2020 - 21:40:23: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:947796992 using ak47!
+L 05/31/2020 - 21:40:26: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:388099385 using galil!
+L 05/31/2020 - 21:40:35: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:1931658130 killed [CT]|STEAM_0:1:484581202 with headshot using ak47!
+L 05/31/2020 - 21:40:40: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:1931658130 killed [CT]|STEAM_0:0:104561756 using ak47!
+L 05/31/2020 - 21:40:44: [killlog.amxx] [VALET]: [T]|STEAM_0:1:433215089 killed [T]|STEAM_0:0:1931658130 using ak47!
+L 05/31/2020 - 21:41:13: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:620094512 killed [CT]|STEAM_0:1:484581202 with headshot using m4a1!
+L 05/31/2020 - 21:41:20: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:1931658130 killed [CT]|STEAM_0:1:433215089 with headshot using m4a1!
+L 05/31/2020 - 21:41:26: [killlog.amxx] [VALET]: [T]|STEAM_0:0:104561756 killed [T]|STEAM_0:0:620094512 with headshot using ak47!
+L 05/31/2020 - 21:41:30: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:0:104561756 using mp5navy!
+L 05/31/2020 - 21:41:52: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:1:484516970 using awp!
+L 05/31/2020 - 21:42:12: [killlog.amxx] [VALET]: [T]|STEAM_0:1:12549369 killed [T]|STEAM_0:0:1931658130 using awp!
