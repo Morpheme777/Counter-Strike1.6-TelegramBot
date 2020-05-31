@@ -5,8 +5,12 @@ import os
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import seaborn as sns
 import six
 import json
+
+
+from logs_parser import LogsParser
 
 
 DAYS_DOUBLE_DECAY = 7
@@ -38,6 +42,12 @@ def render_mpl_table_ranking(data, col_width=3.0, row_height=0.625, font_size=14
                      header_color='#40466e', row_colors=['#f1f1f2', 'w'], edge_color='w',
                      bbox=[0, 0, 1, 1], header_columns=0,
                      ax=None, **kwargs):
+    data['True Skill'] = data['True Skill'].apply(lambda x: "{:,.2f}".format(x))
+    data['Trend'] = data['Trend'].apply(lambda x: "{:,.2f}".format(x))
+    data['Player'] = data['Player'].apply(lambda x: x[:14])
+    data.drop(labels='steam_id', inplace=True, axis=1)
+    data.insert(0, 'Rank', np.arange(1, len(data)+1))
+
     if ax is None:
         size = (np.array(data.shape[::-1]) + np.array([0, 1])) * np.array([col_width, row_height])
         fig, ax = plt.subplots(figsize=size)
@@ -137,14 +147,16 @@ def main(dfs):
         _prepare_figure(user, user_dynamic_df['accuracy'], user_dynamic_df['efficiency'])
     
         return skill, skill_diff
-    
+
     
     if not os.path.exists(IMG_FOLDER):
         os.mkdir(IMG_FOLDER)
     
+    steam_id2nick = {}
     skill_data = []
     for steam_id in steam_ids:
         user = dfs[-1][(dfs[-1].auth==steam_id)]['name'].values[0]
+        steam_id2nick[steam_id] = user
         #if steam_id == 'STEAM_0:0:1091943949':
         #    continue
         try:
@@ -152,16 +164,29 @@ def main(dfs):
         except Exception as e:
             print(steam_id, e)
             continue
-        skill_data.append([user, skill, skill_prev])
+        skill_data.append([steam_id, user, skill, skill_prev])
     
-    df_ranking = pd.DataFrame(skill_data, columns=['Player', 'True Skill', 'Trend']).sort_values('True Skill', ascending=False)
+    df_ranking = pd.DataFrame(skill_data, columns=['steam_id', 'Player', 'True Skill', 'Trend']).sort_values('True Skill', ascending=False)
     df_ranking.reset_index(drop=True, inplace=True)
-    return df_ranking
+    return df_ranking, steam_id2nick
+
+def render_pvp_matrix(players, pvp_matrix):
+    fig, ax = plt.subplots()
+    plt.title('Efficiency PvP')
+    sns.heatmap(pvp_matrix, xticklabels=players, yticklabels=players, cmap='RdYlGn', ax=ax)
+    plt.tight_layout()
+    plt.savefig(WORK_DIR + '/pvp.png')
 
 if __name__ == '__main__':
-	df_ranking = main(dfs)
-	df_ranking['True Skill'] = df_ranking['True Skill'].apply(lambda x: "{:,.2f}".format(x))
-	df_ranking['Trend'] = df_ranking['Trend'].apply(lambda x: "{:,.2f}".format(x))
-	df_ranking['Player'] = df_ranking['Player'].apply(lambda x: x[:14])
-	df_ranking.insert(0, 'Rank', np.arange(1, len(df_ranking)+1))
-	render_mpl_table_ranking(df_ranking)
+    df_ranking, steam_id2nick = main(dfs)
+
+    lp = LogsParser('logs')
+    stat_collector = lp.parse()
+
+    steam_ids, pvp_matrix = stat_collector.get_pvp_stats()
+    players = [steam_id2nick.get(s) for s in steam_ids]
+    render_pvp_matrix(players, pvp_matrix)
+
+    p2r = stat_collector.get_ratings()
+    #df_ranking['new_rating'] = df_ranking.steam_id.apply(lambda x: p2r.get(x))
+    render_mpl_table_ranking(df_ranking)

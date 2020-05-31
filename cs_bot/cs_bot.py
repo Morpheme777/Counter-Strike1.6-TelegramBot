@@ -48,6 +48,9 @@ def main():
         if command == 'rank':
             msg = "Usage: /rank\n{}".format(error)
             return msg
+        if command == 'pvp':
+            msg = "Usage: /pvp\n{}".format(error)
+            return msg
         if command == 'dev':
             msg = "Usage: /dev\n{}".format(error)
             return msg
@@ -59,7 +62,8 @@ def main():
         msg = "{}\n{}\n{}".format(
             help('stat', 'Player stats'),
             help('srv', 'Server status'),
-            help('rank', "Players' rank")
+            help('rank', "Players' rank"),
+            help('pvp', "Players' pvp")
         )
         bot.reply_to(message, msg)
 
@@ -112,6 +116,16 @@ def main():
         chat_id = message.chat.id
         try:
            pic = open('{}/{}.png'.format(WORK_DIR,'ranking'), 'rb')
+           bot.send_photo(chat_id, photo = pic, caption = "")
+        except Exception as e:
+           bot.send_message(chat_id, help('rank', "Cannot find rank file.. sorry"))
+
+
+    @bot.message_handler(commands=['pvp'])
+    def user_rank(message):
+        chat_id = message.chat.id
+        try:
+           pic = open('{}/{}.png'.format(WORK_DIR,'pvp'), 'rb')
            bot.send_photo(chat_id, photo = pic, caption = "")
         except Exception as e:
            bot.send_message(chat_id, help('rank', "Cannot find rank file.. sorry"))
