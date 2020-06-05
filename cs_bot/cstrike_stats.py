@@ -156,7 +156,6 @@ def main(dfs):
     skill_data = []
     for steam_id in steam_ids:
         user = dfs[-1][(dfs[-1].auth==steam_id)]['name'].values[0]
-        steam_id2nick[steam_id] = user
         #if steam_id == 'STEAM_0:0:1091943949':
         #    continue
         try:
@@ -165,6 +164,7 @@ def main(dfs):
             print(steam_id, e)
             continue
         #skill_data.append([steam_id, user, skill, skill_prev])
+        steam_id2nick[steam_id] = user
     
     #df_ranking = pd.DataFrame(skill_data, columns=['steam_id', 'Player', 'True Skill', 'Trend']).sort_values('True Skill', ascending=False)
     #df_ranking.reset_index(drop=True, inplace=True)
@@ -191,6 +191,8 @@ if __name__ == '__main__':
     
     data = []
     for player, rating in p2r.items():
+        if player not in steam_id2nick:
+            continue
         data.append((steam_id2nick[player], rating[0], rating[1]))
     df_ranking = pd.DataFrame(data, columns=['Player', 'True Skill', 'Trend']).sort_values('True Skill', ascending=False)
     df_ranking.reset_index(drop=True, inplace=True)
