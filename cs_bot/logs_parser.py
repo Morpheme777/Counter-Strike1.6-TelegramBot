@@ -19,14 +19,13 @@ PLAYER_TEAM_MATCHER = re.compile('.*\ (?P<player>.*) joined \[(?P<team>.{1,2})\]
 MIN_ROUNDS_FOR_PVP_STAT = 20
 # INITIAL_RATING = 25.
 
-MU = 150.
-#SIGMA = 50
-#BETA = SIGMA / 2
-#TAU = 0.1
+MU = 110.
+SIGMA = 50
+BETA = SIGMA / 2
+TAU = 0.05
 
-#env = trueskill.TrueSkill(mu=MU, sigma=SIGMA, beta=BETA, tau=TAU)
-#env = trueskill.TrueSkill(mu=MU, sigma=SIGMA, tau=TAU)
-env = trueskill.TrueSkill(mu=MU)
+env = trueskill.TrueSkill(mu=MU, sigma=SIGMA, beta=BETA, tau=TAU)
+#env = trueskill.TrueSkill(mu=MU, sigma=SIGMA)
 
 MAPS_TO_ACCOUNT = ['de_dust2', 'de_inferno', 'de_aztec']
 
