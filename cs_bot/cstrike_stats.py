@@ -45,7 +45,7 @@ def render_mpl_table_ranking(data, col_width=3.0, row_height=0.625, font_size=14
     data['True Skill'] = data['True Skill'].apply(lambda x: "{:,.2f}".format(x))
     data['Trend'] = data['Trend'].apply(lambda x: "{:,.2f}".format(x))
     data['Player'] = data['Player'].apply(lambda x: x[:14])
-    data.drop(labels='steam_id', inplace=True, axis=1)
+    #data.drop(labels='steam_id', inplace=True, axis=1)
     data.insert(0, 'Rank', np.arange(1, len(data)+1))
 
     if ax is None:
@@ -82,12 +82,12 @@ def main(dfs):
     avg_damage = dfs[-1].damage.mean()
     avg_kills = dfs[-1].kills.mean()
     
-    def _calc_skill(df_user, avg_damage, avg_kills):
-        w = np.power(2, -np.arange(len(df_user))/DAYS_DOUBLE_DECAY)[::-1]
-        kills_w = np.sum(df_user['kills'] * w)
-        deaths_w = np.sum(df_user['deaths'] * w)
-        damage_w = np.sum(df_user['damage'] * w)
-        return kills_w / deaths_w * 0.5 * (avg_damage / avg_kills + damage_w / kills_w) , kills_w
+    # def _calc_skill(df_user, avg_damage, avg_kills):
+    #     w = np.power(2, -np.arange(len(df_user))/DAYS_DOUBLE_DECAY)[::-1]
+    #     kills_w = np.sum(df_user['kills'] * w)
+    #     deaths_w = np.sum(df_user['deaths'] * w)
+    #     damage_w = np.sum(df_user['damage'] * w)
+    #     return kills_w / deaths_w * 0.5 * (avg_damage / avg_kills + damage_w / kills_w), kills_w
     
     def _prepare_figure(user, accuracy, efficiency):
         ix = pd.isnull(accuracy) | pd.isnull(efficiency)
@@ -139,15 +139,15 @@ def main(dfs):
         user_dynamic_df = pd.DataFrame(data)
         user_dynamic_df['accuracy'] = user_dynamic_df['hits_total'] / user_dynamic_df['shots']
         user_dynamic_df['efficiency'] = user_dynamic_df['kills'] / (user_dynamic_df['deaths'] + user_dynamic_df['kills'])
-        skill, kills_wheighted_count = _calc_skill(user_dynamic_df, avg_damage, avg_kills)
-        skill_prev, _ = _calc_skill(user_dynamic_df[:-1], avg_damage, avg_kills)
-        skill_diff = skill - skill_prev
+        # skill, kills_wheighted_count = _calc_skill(user_dynamic_df, avg_damage, avg_kills)
+        # skill_prev, _ = _calc_skill(user_dynamic_df[:-1], avg_damage, avg_kills)
+
+        w = np.power(2, -np.arange(len(user_dynamic_df))/DAYS_DOUBLE_DECAY)[::-1]
+        kills_wheighted_count = np.sum(user_dynamic_df['kills'] * w)
+
         if kills_wheighted_count < MIN_WEIGHTED_KILLS:
             raise ValueError(f"not enough weighted kills for user {user}: {kills_wheighted_count}")
         _prepare_figure(user, user_dynamic_df['accuracy'], user_dynamic_df['efficiency'])
-    
-        return skill, skill_diff
-
     
     if not os.path.exists(IMG_FOLDER):
         os.mkdir(IMG_FOLDER)
@@ -160,15 +160,15 @@ def main(dfs):
         #if steam_id == 'STEAM_0:0:1091943949':
         #    continue
         try:
-            skill, skill_prev = prepare_user_info(dfs, user, steam_id)
+            prepare_user_info(dfs, user, steam_id)
         except Exception as e:
             print(steam_id, e)
             continue
-        skill_data.append([steam_id, user, skill, skill_prev])
+        #skill_data.append([steam_id, user, skill, skill_prev])
     
-    df_ranking = pd.DataFrame(skill_data, columns=['steam_id', 'Player', 'True Skill', 'Trend']).sort_values('True Skill', ascending=False)
-    df_ranking.reset_index(drop=True, inplace=True)
-    return df_ranking, steam_id2nick
+    #df_ranking = pd.DataFrame(skill_data, columns=['steam_id', 'Player', 'True Skill', 'Trend']).sort_values('True Skill', ascending=False)
+    #df_ranking.reset_index(drop=True, inplace=True)
+    return steam_id2nick
 
 def render_pvp_matrix(players, pvp_matrix):
     fig, ax = plt.subplots()
@@ -178,7 +178,7 @@ def render_pvp_matrix(players, pvp_matrix):
     plt.savefig(WORK_DIR + '/pvp.png')
 
 if __name__ == '__main__':
-    df_ranking, steam_id2nick = main(dfs)
+    steam_id2nick = main(dfs)
 
     lp = LogsParser('{}/logs'.format(WORK_DIR))
     stat_collector = lp.parse()
@@ -188,5 +188,12 @@ if __name__ == '__main__':
     render_pvp_matrix(players, pvp_matrix)
 
     p2r = stat_collector.get_ratings()
+    
+    data = []
+    for player, rating in p2r.items():
+        data.append((steam_id2nick[player], rating[0], rating[1]))
+    df_ranking = pd.DataFrame(data, columns=['Player', 'True Skill', 'Trend']).sort_values('True Skill', ascending=False)
+    df_ranking.reset_index(drop=True, inplace=True)
+
     #df_ranking['new_rating'] = df_ranking.steam_id.apply(lambda x: p2r.get(x))
     render_mpl_table_ranking(df_ranking)
