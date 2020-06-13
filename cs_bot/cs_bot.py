@@ -130,6 +130,22 @@ def main():
         except Exception as e:
            bot.send_message(chat_id, help('rank', "Cannot find rank file.. sorry"))
 
+    @bot.message_handler(commands=['rank_history'])
+    def user_stat(message):
+        msg = message.text
+        chat_id = message.chat.id
+        msg_arg = re.findall('/rank_history\s(.*)', msg)
+        if not msg_arg:
+            bot.send_message(chat_id, "Nickname is required")
+            return 0
+        msg_arg = msg_arg[0]
+        chat_id = message.chat.id
+        try:
+            history = open('{}/{}_info.csv'.format(IMG_FOLDER,msg_arg), 'rb')
+            bot.send_document(chat_id, history, caption = "*confidential")
+        except Exception as e:
+            bot.send_message(chat_id, "{}\n{}".format(msg_stat,help('dev', "Cannot find history file for {}".format(msg_arg))))
+
 
     @bot.message_handler(commands=['dev'])
     def dev_dev(message):
