@@ -199,3 +199,9 @@ if __name__ == '__main__':
 
     #df_ranking['new_rating'] = df_ranking.steam_id.apply(lambda x: p2r.get(x))
     render_mpl_table_ranking(df_ranking)
+
+    for player, dynamics_info in stat_collector.get_player_dynamics().items():
+        df_dynamics = pd.DataFrame.from_records(dynamics_info)
+        df_dynamics = df_dynamics.round(2)
+        df_dynamics.to_csv(IMG_FOLDER+"/%s_info.csv"%steam_id2nick.get(player, player),
+                           index=False, columns=['kills', 'win', 'prev_rating', 'new_rating', 'new_sigma', 'file_number'])

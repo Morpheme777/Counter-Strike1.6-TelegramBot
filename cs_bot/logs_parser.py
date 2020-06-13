@@ -79,9 +79,14 @@ class StatCollector:
         self._p_stat = Counter()
         self._current_map = None
         self._players = set()
+        self._player_dynamics = defaultdict(list)
+        self._file_number = 0
 
     def new_map(self, new_map):
         self._current_map = new_map
+
+    def get_player_dynamics(self):
+        return self._player_dynamics
 
     def update_ratings(self, winner_players, winner_players_kills, loser_players, loser_players_kills):
         if len(winner_players) == 0 or len(loser_players) == 0:
@@ -95,10 +100,26 @@ class StatCollector:
 
         winner_ratings, loser_ratings = trueskill.rate([team_win_ratings, team_lose_ratings], weights=[team_win_weights, team_lose_weights])
 
-        for player, new_rating in zip(winner_players, winner_ratings):
+        for player, new_rating, kills, prev_rating in zip(winner_players, winner_ratings, winner_players_kills, team_win_ratings):
             self._p2r[player] = new_rating
-        for player, new_rating in zip(loser_players, loser_ratings):
+            self._player_dynamics[player].append({
+                'win': 1,
+                'kills': kills,
+                'new_rating': new_rating.mu,
+                'prev_rating': prev_rating.mu,
+                'new_sigma': new_rating.sigma,
+                'file_number': self._file_number,
+            })
+        for player, new_rating, kills, prev_rating in zip(loser_players, loser_ratings, loser_players_kills, team_lose_ratings):
             self._p2r[player] = new_rating
+            self._player_dynamics[player].append({
+                'win': 0,
+                'kills': kills,
+                'new_rating': new_rating.mu,
+                'prev_rating': prev_rating.mu,
+                'new_sigma': new_rating.sigma,
+                'file_number': self._file_number,
+            })
 
     def register_kill(self, team1, player1, team2, player2, is_headshot, weapon1):
         """ player1  kills player2
@@ -121,6 +142,7 @@ class StatCollector:
 
     def new_file(self):
         self._p2r_prev = copy.deepcopy(self._p2r)
+        self._file_number += 1
 
     def get_pvp_stats(self):
         players, _ = zip(*sorted(self.get_ratings().items(), key=lambda x: x[1], reverse=True))
