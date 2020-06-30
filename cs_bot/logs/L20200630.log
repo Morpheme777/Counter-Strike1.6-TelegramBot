@@ -1,0 +1,1697 @@
+L 06/30/2020 - 00:00:04: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:1:72622969 using m4a1!
+L 06/30/2020 - 00:00:09: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:21621247 killed [CT]|STEAM_0:0:388099385 using m4a1!
+L 06/30/2020 - 00:00:11: [killlog.amxx] [VALET]: [T]|STEAM_0:0:297467293 killed [T]|STEAM_0:1:21621247 using galil!
+L 06/30/2020 - 00:00:26: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:297467293 using m4a1!
+L 06/30/2020 - 00:00:51: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:41432129 using m4a1!
+L 06/30/2020 - 00:00:51: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 00:00:56: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:00:56: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:00:56: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:00:56: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:00:56: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:00:56: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:00:56: [killlog.amxx] [VALET]: STEAM_0:1:72622969 joined [CT]!
+L 06/30/2020 - 00:00:56: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:00:56: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:00:56: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:00:56: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:00:59: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 00:01:01: [killlog.amxx] [VALET]: STEAM_0:1:72622969 disconnected!
+L 06/30/2020 - 00:01:14: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:41432129 with headshot using m4a1!
+L 06/30/2020 - 00:01:30: [killlog.amxx] [VALET]: STEAM_0:0:297467293 disconnected!
+L 06/30/2020 - 00:01:30: [killlog.amxx] [VALET]: STEAM_0:1:21621247 disconnected!
+L 06/30/2020 - 00:01:30: [killlog.amxx] [VALET]: STEAM_0:1:539436237 disconnected!
+L 06/30/2020 - 00:01:30: [killlog.amxx] [VALET]: STEAM_0:0:41432129 disconnected!
+L 06/30/2020 - 00:01:30: [killlog.amxx] [VALET]: STEAM_0:0:25318873 disconnected!
+L 06/30/2020 - 00:01:30: [killlog.amxx] [VALET]: STEAM_0:1:539871271 disconnected!
+L 06/30/2020 - 00:01:30: [killlog.amxx] [VALET]: STEAM_0:1:539411817 disconnected!
+L 06/30/2020 - 00:01:30: [killlog.amxx] [VALET]: STEAM_0:0:947796992 disconnected!
+L 06/30/2020 - 00:01:30: [killlog.amxx] [VALET]: STEAM_0:0:388099385 disconnected!
+L 06/30/2020 - 00:01:30: [killlog.amxx] [VALET]: STEAM_0:1:484581202 disconnected!
+L 06/30/2020 - 00:01:30: -------- Mapchange to cs_pf_dust --------
+L 06/30/2020 - 00:01:30: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 00:01:35: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 00:01:38: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 00:01:39: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:01:39: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:01:40: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:01:40: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:01:40: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:01:42: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:01:42: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:01:42: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 00:01:42: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:01:42: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:01:43: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:01:43: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:01:43: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:01:44: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:01:44: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:01:45: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:01:45: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:01:45: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:01:45: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:01:45: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:01:45: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:01:45: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:01:46: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:01:46: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:01:48: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 00:01:53: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:01:54: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:02:02: [killlog.amxx] [VALET]: [T]|STEAM_0:0:947796992 killed [T]|STEAM_0:1:21621247 using sg552!
+L 06/30/2020 - 00:02:04: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:947796992 using m4a1!
+L 06/30/2020 - 00:02:04: [killlog.amxx] [VALET]: [T]|STEAM_0:0:388099385 killed [T]|STEAM_0:1:539436237 with headshot using ak47!
+L 06/30/2020 - 00:02:08: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:02:08: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:02:14: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:25318873 killed [CT]|STEAM_0:1:484581202 using m4a1!
+L 06/30/2020 - 00:02:22: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539411817 killed [CT]|STEAM_0:0:41432129 using m4a1!
+L 06/30/2020 - 00:02:36: [killlog.amxx] [VALET]: [T]|STEAM_0:0:388099385 killed [T]|STEAM_0:1:539411817 using ak47!
+L 06/30/2020 - 00:03:12: [killlog.amxx] [VALET]: [T]|STEAM_0:0:388099385 killed [T]|STEAM_0:1:539871271 using ak47!
+L 06/30/2020 - 00:03:31: [killlog.amxx] [VALET]: [T]|STEAM_0:0:388099385 killed [T]|STEAM_0:0:25318873 using ak47!
+L 06/30/2020 - 00:03:31: [killlog.amxx] [VALET]:  round end [T] score: 1 [CT] score: 0!
+L 06/30/2020 - 00:03:36: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:03:36: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:03:36: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:03:36: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:03:36: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:03:36: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:03:36: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:03:37: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:03:37: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:03:37: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:03:39: [killlog.amxx] [VALET]:  round start [T] score: 1 [CT] score: 0!
+L 06/30/2020 - 00:03:58: [killlog.amxx] [VALET]: [T]|STEAM_0:0:297467293 killed [T]|STEAM_0:0:25318873 using sg552!
+L 06/30/2020 - 00:04:01: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:539411817 with headshot using ak47!
+L 06/30/2020 - 00:04:02: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:21621247 killed [CT]|STEAM_0:0:41432129 using mp5navy!
+L 06/30/2020 - 00:04:06: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:297467293 using m3!
+L 06/30/2020 - 00:04:07: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:21621247 killed [CT]|STEAM_0:0:947796992 with headshot using mp5navy!
+L 06/30/2020 - 00:04:07: [killlog.amxx] [VALET]: [T]|STEAM_0:0:388099385 killed [T]|STEAM_0:1:539871271 using ak47!
+L 06/30/2020 - 00:04:12: [killlog.amxx] [VALET]: [T]|STEAM_0:0:388099385 killed [T]|STEAM_0:1:539436237 with headshot using ak47!
+L 06/30/2020 - 00:04:40: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:1:21621247 using galil!
+L 06/30/2020 - 00:04:40: [killlog.amxx] [VALET]:  round end [T] score: 2 [CT] score: 0!
+L 06/30/2020 - 00:04:45: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:04:45: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:04:45: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:04:45: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:04:45: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:04:45: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:04:45: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:04:45: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:04:45: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:04:45: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:04:48: [killlog.amxx] [VALET]:  round start [T] score: 2 [CT] score: 0!
+L 06/30/2020 - 00:05:02: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:21621247 killed [CT]|STEAM_0:0:297467293 with headshot using mp5navy!
+L 06/30/2020 - 00:05:03: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:539411817 with headshot using ak47!
+L 06/30/2020 - 00:05:03: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:1:21621247 using galil!
+L 06/30/2020 - 00:05:05: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:0:25318873 with headshot using galil!
+L 06/30/2020 - 00:05:06: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:1:484581202 with headshot using famas!
+L 06/30/2020 - 00:05:11: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:539871271 using ak47!
+L 06/30/2020 - 00:05:13: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:539436237 using ak47!
+L 06/30/2020 - 00:05:13: [killlog.amxx] [VALET]:  round end [T] score: 3 [CT] score: 0!
+L 06/30/2020 - 00:05:18: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:05:18: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:05:18: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:05:18: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:05:18: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:05:18: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:05:18: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:05:18: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:05:18: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:05:18: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:05:21: [killlog.amxx] [VALET]:  round start [T] score: 3 [CT] score: 0!
+L 06/30/2020 - 00:05:31: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:21621247 with headshot using ak47!
+L 06/30/2020 - 00:05:34: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:41432129 with headshot using m4a1!
+L 06/30/2020 - 00:05:37: [killlog.amxx] [VALET]: [T]|STEAM_0:1:484581202 killed [T]|STEAM_0:1:539871271 using awp!
+L 06/30/2020 - 00:05:37: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:25318873 killed [CT]|STEAM_0:1:484581202 using mp5navy!
+L 06/30/2020 - 00:05:40: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:947796992 with headshot using m4a1!
+L 06/30/2020 - 00:05:58: [killlog.amxx] [VALET]: [T]|STEAM_0:0:388099385 killed [T]|STEAM_0:1:539411817 using ak47!
+L 06/30/2020 - 00:06:07: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:388099385 using awp!
+L 06/30/2020 - 00:06:16: [killlog.amxx] [VALET]: [T]|STEAM_0:0:297467293 killed [T]|STEAM_0:0:25318873 using sg552!
+L 06/30/2020 - 00:06:30: [killlog.amxx] [VALET]: [T]|STEAM_0:0:297467293 killed [T]|STEAM_0:1:539436237 with headshot using sg552!
+L 06/30/2020 - 00:06:30: [killlog.amxx] [VALET]:  round end [T] score: 4 [CT] score: 0!
+L 06/30/2020 - 00:06:35: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:06:35: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:06:35: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:06:35: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:06:35: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:06:35: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:06:35: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:06:35: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:06:35: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:06:35: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:06:38: [killlog.amxx] [VALET]:  round start [T] score: 4 [CT] score: 0!
+L 06/30/2020 - 00:06:53: [killlog.amxx] [VALET]: [T]|STEAM_0:0:297467293 killed [T]|STEAM_0:1:539411817 using grenade!
+L 06/30/2020 - 00:06:57: [killlog.amxx] [VALET]: [T]|STEAM_0:0:947796992 killed [T]|STEAM_0:0:25318873 using grenade!
+L 06/30/2020 - 00:06:58: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:21621247 killed [CT]|STEAM_0:0:41432129 with headshot using famas!
+L 06/30/2020 - 00:07:00: [killlog.amxx] [VALET]: [T]|STEAM_0:0:947796992 killed [T]|STEAM_0:1:21621247 using sg552!
+L 06/30/2020 - 00:07:05: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:388099385 using m4a1!
+L 06/30/2020 - 00:07:19: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:947796992 using m4a1!
+L 06/30/2020 - 00:07:20: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:1:484581202 using m4a1!
+L 06/30/2020 - 00:07:30: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:297467293 using m4a1!
+L 06/30/2020 - 00:07:30: [killlog.amxx] [VALET]:  round end [T] score: 4 [CT] score: 1!
+L 06/30/2020 - 00:07:35: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:07:35: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:07:35: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:07:35: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:07:35: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:07:35: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:07:35: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:07:35: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:07:35: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:07:35: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:07:38: [killlog.amxx] [VALET]:  round start [T] score: 4 [CT] score: 1!
+L 06/30/2020 - 00:07:46: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:1:484581202 with headshot using m4a1!
+L 06/30/2020 - 00:07:49: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:21621247 with headshot using ak47!
+L 06/30/2020 - 00:07:51: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:388099385 using m4a1!
+L 06/30/2020 - 00:07:55: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:947796992 with headshot using m4a1!
+L 06/30/2020 - 00:08:03: [killlog.amxx] [VALET]: [T]|STEAM_0:0:297467293 killed [T]|STEAM_0:1:539411817 using ak47!
+L 06/30/2020 - 00:08:09: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:0:25318873 with headshot using ak47!
+L 06/30/2020 - 00:08:29: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:41432129 using m4a1!
+L 06/30/2020 - 00:08:39: [killlog.amxx] [VALET]: [T]|STEAM_0:0:297467293 killed [T]|STEAM_0:1:539436237 using ak47!
+L 06/30/2020 - 00:09:23: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:297467293 using sg550!
+L 06/30/2020 - 00:09:23: [killlog.amxx] [VALET]:  round end [T] score: 4 [CT] score: 2!
+L 06/30/2020 - 00:09:28: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:09:28: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:09:28: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:09:28: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:09:28: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:09:28: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:09:28: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:09:28: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:09:28: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:09:28: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:09:31: [killlog.amxx] [VALET]:  round start [T] score: 4 [CT] score: 2!
+L 06/30/2020 - 00:09:53: [killlog.amxx] [VALET]: [T]|STEAM_0:0:297467293 killed [T]|STEAM_0:1:539411817 with headshot using ak47!
+L 06/30/2020 - 00:09:56: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:0:25318873 with headshot using ak47!
+L 06/30/2020 - 00:09:57: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:388099385 with headshot using sg550!
+L 06/30/2020 - 00:10:01: [killlog.amxx] [VALET]: [T]|STEAM_0:0:947796992 killed [T]|STEAM_0:1:539436237 using ak47!
+L 06/30/2020 - 00:10:19: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:21621247 killed [CT]|STEAM_0:0:947796992 with headshot using p90!
+L 06/30/2020 - 00:10:21: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:21621247 using ak47!
+L 06/30/2020 - 00:10:51: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:297467293 using sg550!
+L 06/30/2020 - 00:10:56: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:539871271 using ak47!
+L 06/30/2020 - 00:10:56: [killlog.amxx] [VALET]:  round end [T] score: 5 [CT] score: 2!
+L 06/30/2020 - 00:11:01: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:11:01: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:11:01: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:11:01: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:11:01: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:11:01: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:11:01: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:11:01: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:11:01: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:11:01: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:11:04: [killlog.amxx] [VALET]:  round start [T] score: 5 [CT] score: 2!
+L 06/30/2020 - 00:11:19: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:388099385 with headshot using m4a1!
+L 06/30/2020 - 00:11:22: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:21621247 using ak47!
+L 06/30/2020 - 00:11:29: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:1:484581202 using m4a1!
+L 06/30/2020 - 00:11:30: [killlog.amxx] [VALET]: [T]|STEAM_0:0:297467293 killed [T]|STEAM_0:1:539411817 using ak47!
+L 06/30/2020 - 00:11:34: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:41432129 using ak47!
+L 06/30/2020 - 00:11:50: [killlog.amxx] [VALET]: [T]|STEAM_0:0:297467293 killed [T]|STEAM_0:1:539436237 using ak47!
+L 06/30/2020 - 00:11:51: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:297467293 using ak47!
+L 06/30/2020 - 00:11:52: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:947796992 using ak47!
+L 06/30/2020 - 00:11:52: [killlog.amxx] [VALET]:  round end [T] score: 5 [CT] score: 3!
+L 06/30/2020 - 00:11:57: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:11:57: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:11:57: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:11:57: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:11:57: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:11:57: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:11:57: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:11:57: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:11:57: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:11:57: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:12:00: [killlog.amxx] [VALET]:  round start [T] score: 5 [CT] score: 3!
+L 06/30/2020 - 00:12:10: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:539871271 with headshot using ak47!
+L 06/30/2020 - 00:12:15: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539411817 killed [CT]|STEAM_0:0:297467293 using m4a1!
+L 06/30/2020 - 00:12:17: [killlog.amxx] [VALET]: [T]|STEAM_0:0:947796992 killed [T]|STEAM_0:1:21621247 using sg552!
+L 06/30/2020 - 00:12:19: [killlog.amxx] [VALET]: [T]|STEAM_0:0:947796992 killed [T]|STEAM_0:0:25318873 using sg552!
+L 06/30/2020 - 00:12:22: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:539411817 with headshot using ak47!
+L 06/30/2020 - 00:12:27: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:388099385 with headshot using m4a1!
+L 06/30/2020 - 00:12:30: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:947796992 with headshot using m4a1!
+L 06/30/2020 - 00:12:34: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:41432129 using usp!
+L 06/30/2020 - 00:12:41: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:1:484581202 using m4a1!
+L 06/30/2020 - 00:12:41: [killlog.amxx] [VALET]:  round end [T] score: 5 [CT] score: 4!
+L 06/30/2020 - 00:12:46: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:12:46: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:12:46: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:12:46: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:12:46: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:12:46: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:12:46: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:12:46: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:12:46: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:12:46: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:12:49: [killlog.amxx] [VALET]:  round start [T] score: 5 [CT] score: 4!
+L 06/30/2020 - 00:13:04: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:41432129 with headshot using m4a1!
+L 06/30/2020 - 00:13:07: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:21621247 killed [CT]|STEAM_0:1:484581202 using m4a1!
+L 06/30/2020 - 00:13:07: [killlog.amxx] [VALET]: [T]|STEAM_0:0:297467293 killed [T]|STEAM_0:1:21621247 using sg552!
+L 06/30/2020 - 00:13:10: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:297467293 using m4a1!
+L 06/30/2020 - 00:13:12: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:388099385 using m4a1!
+L 06/30/2020 - 00:13:13: [killlog.amxx] [VALET]: [T]|STEAM_0:0:947796992 killed [T]|STEAM_0:1:539436237 with headshot using ak47!
+L 06/30/2020 - 00:13:15: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:25318873 killed [CT]|STEAM_0:0:947796992 using p90!
+L 06/30/2020 - 00:13:15: [killlog.amxx] [VALET]:  round end [T] score: 5 [CT] score: 5!
+L 06/30/2020 - 00:13:20: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:13:20: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:13:20: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:13:20: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:13:20: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:13:20: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:13:20: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:13:20: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:13:20: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:13:20: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:13:23: [killlog.amxx] [VALET]:  round start [T] score: 5 [CT] score: 5!
+L 06/30/2020 - 00:13:28: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:41432129 using awp!
+L 06/30/2020 - 00:13:33: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:21621247 killed [CT]|STEAM_0:0:297467293 using awp!
+L 06/30/2020 - 00:13:34: [killlog.amxx] [VALET]: [T]|STEAM_0:0:947796992 killed [T]|STEAM_0:1:539871271 using sg552!
+L 06/30/2020 - 00:13:35: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:1:484581202 using awp!
+L 06/30/2020 - 00:13:47: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:25318873 killed [CT]|STEAM_0:0:947796992 using p90!
+L 06/30/2020 - 00:13:54: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:388099385 using awp!
+L 06/30/2020 - 00:13:54: [killlog.amxx] [VALET]:  round end [T] score: 5 [CT] score: 6!
+L 06/30/2020 - 00:13:59: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:13:59: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:13:59: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:13:59: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:13:59: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:13:59: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:13:59: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:13:59: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:13:59: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:13:59: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:14:02: [killlog.amxx] [VALET]:  round start [T] score: 5 [CT] score: 6!
+L 06/30/2020 - 00:14:16: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:947796992 with headshot using m4a1!
+L 06/30/2020 - 00:14:19: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:388099385 with headshot using m4a1!
+L 06/30/2020 - 00:14:21: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539411817 killed [CT]|STEAM_0:0:41432129 with headshot using m4a1!
+L 06/30/2020 - 00:14:22: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539411817 killed [CT]|STEAM_0:1:484581202 with headshot using m4a1!
+L 06/30/2020 - 00:14:25: [killlog.amxx] [VALET]: [T]|STEAM_0:0:297467293 killed [T]|STEAM_0:1:539411817 using sg552!
+L 06/30/2020 - 00:14:29: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:25318873 killed [CT]|STEAM_0:0:297467293 using p90!
+L 06/30/2020 - 00:14:29: [killlog.amxx] [VALET]:  round end [T] score: 5 [CT] score: 7!
+L 06/30/2020 - 00:14:34: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:14:34: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:14:34: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:14:34: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:14:34: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:14:34: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:14:34: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:14:34: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:14:34: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:14:34: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:14:37: [killlog.amxx] [VALET]:  round start [T] score: 5 [CT] score: 7!
+L 06/30/2020 - 00:14:42: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:1:484581202 using awp!
+L 06/30/2020 - 00:14:46: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:297467293 with headshot using m4a1!
+L 06/30/2020 - 00:14:46: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:21621247 with headshot using ak47!
+L 06/30/2020 - 00:14:50: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:539411817 using ak47!
+L 06/30/2020 - 00:14:53: [killlog.amxx] [VALET]: [T]|STEAM_0:0:388099385 killed [T]|STEAM_0:1:539871271 with headshot using ak47!
+L 06/30/2020 - 00:14:55: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:388099385 with headshot using awp!
+L 06/30/2020 - 00:15:11: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:41432129 using awp!
+L 06/30/2020 - 00:15:15: [killlog.amxx] [VALET]: [T]|STEAM_0:0:947796992 killed [T]|STEAM_0:1:539436237 with headshot using sg552!
+L 06/30/2020 - 00:15:49: [killlog.amxx] [VALET]: [T]|STEAM_0:0:947796992 killed [T]|STEAM_0:0:25318873 using sg552!
+L 06/30/2020 - 00:15:49: [killlog.amxx] [VALET]:  round end [T] score: 6 [CT] score: 7!
+L 06/30/2020 - 00:15:54: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:15:54: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:15:54: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:15:54: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:15:54: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:15:54: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:15:54: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:15:54: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:15:54: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:15:54: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:15:57: [killlog.amxx] [VALET]:  round start [T] score: 6 [CT] score: 7!
+L 06/30/2020 - 00:15:58: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [CT]!
+L 06/30/2020 - 00:15:58: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [T]!
+L 06/30/2020 - 00:15:58: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [T]!
+L 06/30/2020 - 00:15:58: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [CT]!
+L 06/30/2020 - 00:15:58: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:15:58: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [T]!
+L 06/30/2020 - 00:15:58: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [T]!
+L 06/30/2020 - 00:15:58: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [CT]!
+L 06/30/2020 - 00:15:58: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [CT]!
+L 06/30/2020 - 00:15:58: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [CT]!
+L 06/30/2020 - 00:16:01: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 00:16:12: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:0:25318873 using m4a1!
+L 06/30/2020 - 00:16:15: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:1:539871271 with headshot using usp!
+L 06/30/2020 - 00:16:16: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:1:484581202 using sg552!
+L 06/30/2020 - 00:16:21: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:1:539436237 with headshot using usp!
+L 06/30/2020 - 00:16:23: [killlog.amxx] [VALET]: [T]|STEAM_0:1:21621247 killed [T]|STEAM_0:0:947796992 using ak47!
+L 06/30/2020 - 00:16:30: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:297467293 killed [CT]|STEAM_0:1:21621247 using mp5navy!
+L 06/30/2020 - 00:17:08: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539411817 killed [T]|STEAM_0:0:41432129 with headshot using p90!
+L 06/30/2020 - 00:17:14: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:539411817 using m4a1!
+L 06/30/2020 - 00:17:14: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 00:17:19: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [CT]!
+L 06/30/2020 - 00:17:19: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [T]!
+L 06/30/2020 - 00:17:19: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [T]!
+L 06/30/2020 - 00:17:19: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [CT]!
+L 06/30/2020 - 00:17:19: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:17:19: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [T]!
+L 06/30/2020 - 00:17:19: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [T]!
+L 06/30/2020 - 00:17:19: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [CT]!
+L 06/30/2020 - 00:17:19: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [CT]!
+L 06/30/2020 - 00:17:19: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [CT]!
+L 06/30/2020 - 00:17:22: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 00:17:38: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539871271 killed [T]|STEAM_0:0:297467293 using mp5navy!
+L 06/30/2020 - 00:17:39: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:539871271 using m4a1!
+L 06/30/2020 - 00:17:39: [killlog.amxx] [VALET]: [T]|STEAM_0:0:25318873 killed [T]|STEAM_0:0:947796992 with headshot using sg552!
+L 06/30/2020 - 00:17:41: [killlog.amxx] [VALET]: [T]|STEAM_0:1:21621247 killed [T]|STEAM_0:0:41432129 with headshot using mp5navy!
+L 06/30/2020 - 00:18:01: [killlog.amxx] [VALET]: [T]|STEAM_0:1:21621247 killed [T]|STEAM_0:1:539411817 using mp5navy!
+L 06/30/2020 - 00:18:07: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:21621247 using m4a1!
+L 06/30/2020 - 00:18:10: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:1:484581202 using ak47!
+L 06/30/2020 - 00:18:17: [killlog.amxx] [VALET]: [T]|STEAM_0:0:25318873 killed [T]|STEAM_0:0:388099385 using sg552!
+L 06/30/2020 - 00:18:17: [killlog.amxx] [VALET]:  round end [T] score: 1 [CT] score: 1!
+L 06/30/2020 - 00:18:22: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [CT]!
+L 06/30/2020 - 00:18:22: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [T]!
+L 06/30/2020 - 00:18:22: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [T]!
+L 06/30/2020 - 00:18:22: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [CT]!
+L 06/30/2020 - 00:18:22: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:18:22: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [T]!
+L 06/30/2020 - 00:18:22: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [T]!
+L 06/30/2020 - 00:18:22: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [CT]!
+L 06/30/2020 - 00:18:22: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [CT]!
+L 06/30/2020 - 00:18:22: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [CT]!
+L 06/30/2020 - 00:18:25: [killlog.amxx] [VALET]:  round start [T] score: 1 [CT] score: 1!
+L 06/30/2020 - 00:18:45: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:0:25318873 using m4a1!
+L 06/30/2020 - 00:18:45: [killlog.amxx] [VALET]: [T]|STEAM_0:1:21621247 killed [T]|STEAM_0:0:947796992 using galil!
+L 06/30/2020 - 00:18:59: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:21621247 using m4a1!
+L 06/30/2020 - 00:18:59: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:0:297467293 using m4a1!
+L 06/30/2020 - 00:19:00: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:0:41432129 using m4a1!
+L 06/30/2020 - 00:19:01: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:1:484581202 with headshot using m4a1!
+L 06/30/2020 - 00:19:10: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:0:388099385 using m4a1!
+L 06/30/2020 - 00:19:10: [killlog.amxx] [VALET]:  round end [T] score: 2 [CT] score: 1!
+L 06/30/2020 - 00:19:15: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [CT]!
+L 06/30/2020 - 00:19:15: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [T]!
+L 06/30/2020 - 00:19:15: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [T]!
+L 06/30/2020 - 00:19:15: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [CT]!
+L 06/30/2020 - 00:19:15: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:19:15: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [T]!
+L 06/30/2020 - 00:19:15: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [T]!
+L 06/30/2020 - 00:19:15: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [CT]!
+L 06/30/2020 - 00:19:15: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [CT]!
+L 06/30/2020 - 00:19:15: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [CT]!
+L 06/30/2020 - 00:19:18: [killlog.amxx] [VALET]:  round start [T] score: 2 [CT] score: 1!
+L 06/30/2020 - 00:19:25: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:0:297467293 using m4a1!
+L 06/30/2020 - 00:19:28: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:1:539871271 using m4a1!
+L 06/30/2020 - 00:19:29: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:0:41432129 using grenade!
+L 06/30/2020 - 00:19:30: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:484581202 killed [CT]|STEAM_0:1:539411817 using aug!
+L 06/30/2020 - 00:19:31: [killlog.amxx] [VALET]: [T]|STEAM_0:0:25318873 killed [T]|STEAM_0:1:484581202 using sg552!
+L 06/30/2020 - 00:19:32: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:539436237 using mp5navy!
+L 06/30/2020 - 00:19:41: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:0:25318873 using m4a1!
+L 06/30/2020 - 00:19:46: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:21621247 using m4a1!
+L 06/30/2020 - 00:19:46: [killlog.amxx] [VALET]:  round end [T] score: 2 [CT] score: 2!
+L 06/30/2020 - 00:19:51: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [CT]!
+L 06/30/2020 - 00:19:51: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [T]!
+L 06/30/2020 - 00:19:51: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [T]!
+L 06/30/2020 - 00:19:51: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [CT]!
+L 06/30/2020 - 00:19:51: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:19:51: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [T]!
+L 06/30/2020 - 00:19:51: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [T]!
+L 06/30/2020 - 00:19:51: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [CT]!
+L 06/30/2020 - 00:19:51: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [CT]!
+L 06/30/2020 - 00:19:51: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [CT]!
+L 06/30/2020 - 00:19:54: [killlog.amxx] [VALET]:  round start [T] score: 2 [CT] score: 2!
+L 06/30/2020 - 00:19:59: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:0:947796992 using awp!
+L 06/30/2020 - 00:20:02: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:484581202 killed [CT]|STEAM_0:1:539436237 using famas!
+L 06/30/2020 - 00:20:07: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:0:25318873 with headshot using m4a1!
+L 06/30/2020 - 00:20:10: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:1:539411817 with headshot using m4a1!
+L 06/30/2020 - 00:20:10: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:484581202 killed [CT]|STEAM_0:1:21621247 using famas!
+L 06/30/2020 - 00:20:14: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539871271 killed [T]|STEAM_0:0:297467293 using galil!
+L 06/30/2020 - 00:20:15: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539871271 killed [T]|STEAM_0:1:484581202 using galil!
+L 06/30/2020 - 00:20:22: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:1:539871271 with headshot using m4a1!
+L 06/30/2020 - 00:20:22: [killlog.amxx] [VALET]:  round end [T] score: 2 [CT] score: 3!
+L 06/30/2020 - 00:20:27: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [CT]!
+L 06/30/2020 - 00:20:27: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [T]!
+L 06/30/2020 - 00:20:27: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [T]!
+L 06/30/2020 - 00:20:27: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [CT]!
+L 06/30/2020 - 00:20:27: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:20:27: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [T]!
+L 06/30/2020 - 00:20:27: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [T]!
+L 06/30/2020 - 00:20:27: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [CT]!
+L 06/30/2020 - 00:20:27: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [CT]!
+L 06/30/2020 - 00:20:27: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [CT]!
+L 06/30/2020 - 00:20:30: [killlog.amxx] [VALET]:  round start [T] score: 2 [CT] score: 3!
+L 06/30/2020 - 00:20:38: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539871271 killed [T]|STEAM_0:0:297467293 using galil!
+L 06/30/2020 - 00:20:40: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:21621247 with headshot using aug!
+L 06/30/2020 - 00:20:41: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:0:25318873 with headshot using m4a1!
+L 06/30/2020 - 00:20:44: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539871271 killed [T]|STEAM_0:1:484581202 using galil!
+L 06/30/2020 - 00:20:44: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:1:539411817 with headshot using m4a1!
+L 06/30/2020 - 00:20:46: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539871271 killed [T]|STEAM_0:0:388099385 with headshot using galil!
+L 06/30/2020 - 00:20:49: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:539436237 using aug!
+L 06/30/2020 - 00:20:57: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539871271 killed [T]|STEAM_0:0:41432129 with headshot using m4a1!
+L 06/30/2020 - 00:21:02: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539871271 killed [T]|STEAM_0:0:947796992 with headshot using m4a1!
+L 06/30/2020 - 00:21:02: [killlog.amxx] [VALET]:  round end [T] score: 3 [CT] score: 3!
+L 06/30/2020 - 00:21:03: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:539871271 using grenade!
+L 06/30/2020 - 00:21:07: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [CT]!
+L 06/30/2020 - 00:21:07: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [T]!
+L 06/30/2020 - 00:21:07: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [T]!
+L 06/30/2020 - 00:21:07: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [CT]!
+L 06/30/2020 - 00:21:07: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:21:07: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [T]!
+L 06/30/2020 - 00:21:07: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [T]!
+L 06/30/2020 - 00:21:07: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [CT]!
+L 06/30/2020 - 00:21:07: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [CT]!
+L 06/30/2020 - 00:21:07: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [CT]!
+L 06/30/2020 - 00:21:10: [killlog.amxx] [VALET]:  round start [T] score: 3 [CT] score: 3!
+L 06/30/2020 - 00:21:20: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:1:539871271 using m4a1!
+L 06/30/2020 - 00:21:23: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:21621247 using aug!
+L 06/30/2020 - 00:21:30: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539411817 killed [T]|STEAM_0:1:484581202 using ak47!
+L 06/30/2020 - 00:21:38: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:539411817 using awp!
+L 06/30/2020 - 00:21:42: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:0:947796992 using glock18!
+L 06/30/2020 - 00:21:49: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:0:25318873 with headshot using m4a1!
+L 06/30/2020 - 00:21:58: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:0:41432129 using aug!
+L 06/30/2020 - 00:22:06: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:297467293 killed [CT]|STEAM_0:1:539436237 using ak47!
+L 06/30/2020 - 00:22:06: [killlog.amxx] [VALET]:  round end [T] score: 3 [CT] score: 4!
+L 06/30/2020 - 00:22:11: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [CT]!
+L 06/30/2020 - 00:22:11: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [T]!
+L 06/30/2020 - 00:22:11: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [T]!
+L 06/30/2020 - 00:22:11: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [CT]!
+L 06/30/2020 - 00:22:11: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:22:11: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [T]!
+L 06/30/2020 - 00:22:11: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [T]!
+L 06/30/2020 - 00:22:11: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [CT]!
+L 06/30/2020 - 00:22:11: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [CT]!
+L 06/30/2020 - 00:22:11: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [CT]!
+L 06/30/2020 - 00:22:14: [killlog.amxx] [VALET]:  round start [T] score: 3 [CT] score: 4!
+L 06/30/2020 - 00:22:29: [killlog.amxx] [VALET]: [T]|STEAM_0:0:25318873 killed [T]|STEAM_0:0:388099385 using sg552!
+L 06/30/2020 - 00:22:33: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:21621247 using m4a1!
+L 06/30/2020 - 00:22:37: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:0:25318873 using m4a1!
+L 06/30/2020 - 00:22:38: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:0:947796992 with headshot using ak47!
+L 06/30/2020 - 00:22:38: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:1:484581202 with headshot using ak47!
+L 06/30/2020 - 00:22:50: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539871271 killed [T]|STEAM_0:0:41432129 with headshot using galil!
+L 06/30/2020 - 00:22:53: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539411817 killed [T]|STEAM_0:0:297467293 with headshot using ak47!
+L 06/30/2020 - 00:22:53: [killlog.amxx] [VALET]:  round end [T] score: 4 [CT] score: 4!
+L 06/30/2020 - 00:22:58: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [CT]!
+L 06/30/2020 - 00:22:58: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [T]!
+L 06/30/2020 - 00:22:58: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [T]!
+L 06/30/2020 - 00:22:58: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [CT]!
+L 06/30/2020 - 00:22:58: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:22:58: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [T]!
+L 06/30/2020 - 00:22:58: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [T]!
+L 06/30/2020 - 00:22:58: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [CT]!
+L 06/30/2020 - 00:22:58: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [CT]!
+L 06/30/2020 - 00:22:58: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [CT]!
+L 06/30/2020 - 00:23:01: [killlog.amxx] [VALET]:  round start [T] score: 4 [CT] score: 4!
+L 06/30/2020 - 00:23:09: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539871271 killed [T]|STEAM_0:0:297467293 with headshot using galil!
+L 06/30/2020 - 00:23:10: [killlog.amxx] [VALET]: [T]|STEAM_0:0:25318873 killed [T]|STEAM_0:1:484581202 using sg552!
+L 06/30/2020 - 00:23:11: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:21621247 using awp!
+L 06/30/2020 - 00:23:15: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:539871271 using m4a1!
+L 06/30/2020 - 00:23:16: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:0:25318873 using m4a1!
+L 06/30/2020 - 00:23:20: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:1:539411817 using m4a1!
+L 06/30/2020 - 00:23:35: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:0:947796992 using ak47!
+L 06/30/2020 - 00:23:37: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:1:539436237 using m4a1!
+L 06/30/2020 - 00:23:37: [killlog.amxx] [VALET]:  round end [T] score: 4 [CT] score: 5!
+L 06/30/2020 - 00:23:42: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [CT]!
+L 06/30/2020 - 00:23:42: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [T]!
+L 06/30/2020 - 00:23:42: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [T]!
+L 06/30/2020 - 00:23:42: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [CT]!
+L 06/30/2020 - 00:23:42: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:23:42: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [T]!
+L 06/30/2020 - 00:23:42: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [T]!
+L 06/30/2020 - 00:23:42: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [CT]!
+L 06/30/2020 - 00:23:42: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [CT]!
+L 06/30/2020 - 00:23:42: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [CT]!
+L 06/30/2020 - 00:23:45: [killlog.amxx] [VALET]:  round start [T] score: 4 [CT] score: 5!
+L 06/30/2020 - 00:23:53: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:0:25318873 using m4a1!
+L 06/30/2020 - 00:23:54: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539871271 killed [T]|STEAM_0:0:297467293 using g3sg1!
+L 06/30/2020 - 00:23:56: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:539871271 using awp!
+L 06/30/2020 - 00:23:59: [killlog.amxx] [VALET]: [T]|STEAM_0:1:21621247 killed [T]|STEAM_0:0:947796992 using sg552!
+L 06/30/2020 - 00:24:06: [killlog.amxx] [VALET]: [T]|STEAM_0:1:21621247 killed [T]|STEAM_0:1:484581202 using sg552!
+L 06/30/2020 - 00:24:08: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:1:539411817 with headshot using m4a1!
+L 06/30/2020 - 00:24:09: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:0:388099385 with headshot using ak47!
+L 06/30/2020 - 00:24:41: [killlog.amxx] [VALET]: [T]|STEAM_0:1:21621247 killed [T]|STEAM_0:0:41432129 using m4a1!
+L 06/30/2020 - 00:24:41: [killlog.amxx] [VALET]:  round end [T] score: 5 [CT] score: 5!
+L 06/30/2020 - 00:24:46: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [CT]!
+L 06/30/2020 - 00:24:46: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [T]!
+L 06/30/2020 - 00:24:46: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [T]!
+L 06/30/2020 - 00:24:46: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [CT]!
+L 06/30/2020 - 00:24:46: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:24:46: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [T]!
+L 06/30/2020 - 00:24:46: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [T]!
+L 06/30/2020 - 00:24:46: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [CT]!
+L 06/30/2020 - 00:24:46: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [CT]!
+L 06/30/2020 - 00:24:46: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [CT]!
+L 06/30/2020 - 00:24:49: [killlog.amxx] [VALET]:  round start [T] score: 5 [CT] score: 5!
+L 06/30/2020 - 00:24:56: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:41432129 killed [CT]|STEAM_0:1:21621247 using m4a1!
+L 06/30/2020 - 00:25:03: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:484581202 killed [CT]|STEAM_0:0:25318873 using aug!
+L 06/30/2020 - 00:25:09: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:484581202 killed [CT]|STEAM_0:1:539411817 with headshot using aug!
+L 06/30/2020 - 00:25:16: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:539871271 using m4a1!
+L 06/30/2020 - 00:25:29: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539436237 killed [T]|STEAM_0:0:947796992 using ak47!
+L 06/30/2020 - 00:25:31: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:388099385 killed [CT]|STEAM_0:1:539436237 using m4a1!
+L 06/30/2020 - 00:25:31: [killlog.amxx] [VALET]:  round end [T] score: 5 [CT] score: 6!
+L 06/30/2020 - 00:25:36: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [CT]!
+L 06/30/2020 - 00:25:36: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [T]!
+L 06/30/2020 - 00:25:36: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [T]!
+L 06/30/2020 - 00:25:36: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [CT]!
+L 06/30/2020 - 00:25:36: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:25:36: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [T]!
+L 06/30/2020 - 00:25:36: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [T]!
+L 06/30/2020 - 00:25:36: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [CT]!
+L 06/30/2020 - 00:25:36: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [CT]!
+L 06/30/2020 - 00:25:36: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [CT]!
+L 06/30/2020 - 00:25:39: [killlog.amxx] [VALET]:  round start [T] score: 5 [CT] score: 6!
+L 06/30/2020 - 00:25:46: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:0:25318873 with headshot using m4a1!
+L 06/30/2020 - 00:25:47: [killlog.amxx] [VALET]: [T]|STEAM_0:1:21621247 killed [T]|STEAM_0:0:297467293 using ak47!
+L 06/30/2020 - 00:25:47: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:947796992 killed [CT]|STEAM_0:1:539436237 with headshot using m4a1!
+L 06/30/2020 - 00:25:51: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539871271 killed [T]|STEAM_0:0:947796992 using galil!
+L 06/30/2020 - 00:26:00: [killlog.amxx] [VALET]: [T]|STEAM_0:1:539871271 killed [T]|STEAM_0:0:388099385 with headshot using galil!
+L 06/30/2020 - 00:26:00: [killlog.amxx] [VALET]: [T]|STEAM_0:1:21621247 killed [T]|STEAM_0:0:41432129 with headshot using ak47!
+L 06/30/2020 - 00:26:07: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:484581202 killed [CT]|STEAM_0:1:539871271 with headshot using aug!
+L 06/30/2020 - 00:26:12: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:484581202 killed [CT]|STEAM_0:1:539411817 using aug!
+L 06/30/2020 - 00:26:13: [killlog.amxx] [VALET]: [T]|STEAM_0:1:21621247 killed [T]|STEAM_0:1:484581202 using ak47!
+L 06/30/2020 - 00:26:13: [killlog.amxx] [VALET]:  round end [T] score: 6 [CT] score: 6!
+L 06/30/2020 - 00:26:18: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [CT]!
+L 06/30/2020 - 00:26:18: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [T]!
+L 06/30/2020 - 00:26:18: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [T]!
+L 06/30/2020 - 00:26:18: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [CT]!
+L 06/30/2020 - 00:26:18: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:26:18: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [T]!
+L 06/30/2020 - 00:26:18: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [T]!
+L 06/30/2020 - 00:26:18: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [CT]!
+L 06/30/2020 - 00:26:18: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [CT]!
+L 06/30/2020 - 00:26:18: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [CT]!
+L 06/30/2020 - 00:26:21: [killlog.amxx] [VALET]:  round start [T] score: 6 [CT] score: 6!
+L 06/30/2020 - 00:26:23: [killlog.amxx] [VALET]: STEAM_0:0:297467293 joined [T]!
+L 06/30/2020 - 00:26:23: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:26:23: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:26:23: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:26:23: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:26:23: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:26:23: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:26:23: [killlog.amxx] [VALET]: STEAM_0:0:947796992 joined [T]!
+L 06/30/2020 - 00:26:23: [killlog.amxx] [VALET]: STEAM_0:0:388099385 joined [T]!
+L 06/30/2020 - 00:26:23: [killlog.amxx] [VALET]: STEAM_0:1:484581202 joined [T]!
+L 06/30/2020 - 00:26:26: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 00:26:42: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:297467293 with headshot using m4a1!
+L 06/30/2020 - 00:26:45: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:25318873 killed [CT]|STEAM_0:1:484581202 using deagle!
+L 06/30/2020 - 00:26:46: [killlog.amxx] [VALET]: [T]|STEAM_0:0:947796992 killed [T]|STEAM_0:0:25318873 using sg552!
+L 06/30/2020 - 00:26:48: [killlog.amxx] [VALET]: STEAM_0:1:484581202 disconnected!
+L 06/30/2020 - 00:26:53: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539411817 killed [CT]|STEAM_0:0:947796992 with headshot using m3!
+L 06/30/2020 - 00:26:55: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:21621247 using ak47!
+L 06/30/2020 - 00:26:56: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:388099385 using m4a1!
+L 06/30/2020 - 00:26:57: [killlog.amxx] [VALET]: STEAM_0:0:947796992 disconnected!
+L 06/30/2020 - 00:26:59: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:539871271 with headshot using ak47!
+L 06/30/2020 - 00:27:01: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:41432129 using m4a1!
+L 06/30/2020 - 00:27:01: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 00:27:04: [killlog.amxx] [VALET]: STEAM_0:0:388099385 disconnected!
+L 06/30/2020 - 00:27:05: [killlog.amxx] [VALET]: STEAM_0:0:297467293 disconnected!
+L 06/30/2020 - 00:27:06: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:27:06: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:27:06: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:27:06: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:27:06: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:27:06: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:27:09: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 00:27:20: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:41432129 using grenade!
+L 06/30/2020 - 00:27:20: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 00:27:25: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:27:25: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:27:25: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:27:25: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [CT]!
+L 06/30/2020 - 00:27:25: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:27:25: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:27:28: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 00:27:38: [killlog.amxx] [VALET]: [CT]|STEAM_0:0:25318873 committed suicide using world!
+L 06/30/2020 - 00:27:38: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:27:38: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:41432129 using m4a1!
+L 06/30/2020 - 00:27:38: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 00:27:43: [killlog.amxx] [VALET]: STEAM_0:1:21621247 joined [CT]!
+L 06/30/2020 - 00:27:43: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:27:43: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:27:43: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:27:43: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:27:43: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:27:46: [killlog.amxx] [VALET]: STEAM_0:1:21621247 disconnected!
+L 06/30/2020 - 00:27:46: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 00:27:54: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539436237 killed [CT]|STEAM_0:0:41432129 using m4a1!
+L 06/30/2020 - 00:27:55: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:25318873 using famas!
+L 06/30/2020 - 00:27:55: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 00:28:00: [killlog.amxx] [VALET]: STEAM_0:1:539436237 joined [CT]!
+L 06/30/2020 - 00:28:00: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:28:00: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:28:00: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:28:00: [killlog.amxx] [VALET]: STEAM_0:1:539411817 joined [CT]!
+L 06/30/2020 - 00:28:01: [killlog.amxx] [VALET]: STEAM_0:1:539436237 disconnected!
+L 06/30/2020 - 00:28:02: [killlog.amxx] [VALET]: STEAM_0:1:539411817 disconnected!
+L 06/30/2020 - 00:28:03: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 00:28:52: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:25318873 with headshot using m4a1!
+L 06/30/2020 - 00:29:36: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:41432129 using m4a1!
+L 06/30/2020 - 00:29:36: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 00:29:41: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:29:41: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:29:41: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:29:44: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 00:29:49: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:41432129 using awp!
+L 06/30/2020 - 00:29:52: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:25318873 using awp!
+L 06/30/2020 - 00:29:52: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 00:29:57: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:29:57: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:29:57: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:30:00: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 00:30:06: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:25318873 using awp!
+L 06/30/2020 - 00:30:34: [killlog.amxx] [VALET]: [CT]|STEAM_0:1:539871271 killed [CT]|STEAM_0:0:41432129 using usp!
+L 06/30/2020 - 00:30:34: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 00:30:39: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:30:39: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:30:39: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:30:42: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 00:30:57: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:539871271 with headshot using ak47!
+L 06/30/2020 - 00:30:57: [killlog.amxx] [VALET]:  round end [T] score: 1 [CT] score: 7!
+L 06/30/2020 - 00:31:02: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:31:02: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:31:02: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:31:05: [killlog.amxx] [VALET]:  round start [T] score: 1 [CT] score: 7!
+L 06/30/2020 - 00:31:14: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:539871271 using ak47!
+L 06/30/2020 - 00:31:14: [killlog.amxx] [VALET]:  round end [T] score: 2 [CT] score: 7!
+L 06/30/2020 - 00:31:19: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:31:19: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:31:19: [killlog.amxx] [VALET]: STEAM_0:1:539871271 joined [CT]!
+L 06/30/2020 - 00:31:22: [killlog.amxx] [VALET]:  round start [T] score: 2 [CT] score: 7!
+L 06/30/2020 - 00:31:28: [killlog.amxx] [VALET]: [T]|STEAM_0:0:41432129 killed [T]|STEAM_0:1:539871271 with headshot using ak47!
+L 06/30/2020 - 00:31:28: [killlog.amxx] [VALET]:  round end [T] score: 3 [CT] score: 7!
+L 06/30/2020 - 00:31:32: [killlog.amxx] [VALET]: STEAM_0:1:539871271 disconnected!
+L 06/30/2020 - 00:31:33: [killlog.amxx] [VALET]: STEAM_0:0:41432129 joined [T]!
+L 06/30/2020 - 00:31:33: [killlog.amxx] [VALET]: STEAM_0:0:25318873 joined [T]!
+L 06/30/2020 - 00:31:35: [killlog.amxx] [VALET]: STEAM_0:0:41432129 disconnected!
+L 06/30/2020 - 00:31:36: [killlog.amxx] [VALET]:  round start [T] score: 3 [CT] score: 7!
+L 06/30/2020 - 00:31:41: [killlog.amxx] [VALET]: STEAM_0:0:25318873 disconnected!
+L 06/30/2020 - 00:31:41: [killlog.amxx] [VALET]:  round end [T] score: 3 [CT] score: 7!
+L 06/30/2020 - 00:31:49: [killlog.amxx] [VALET]:  round start [T] score: 3 [CT] score: 7!
+L 06/30/2020 - 00:39:52: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 00:40:02: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust
+L 06/30/2020 - 00:41:57: -------- Mapchange to de_dust --------
+L 06/30/2020 - 00:41:58: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 00:42:02: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 00:42:05: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 00:43:47: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 00:43:55: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 00:45:40: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 00:45:48: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 00:47:33: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 00:47:41: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 00:49:26: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 00:49:34: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 00:51:19: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 00:51:27: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 00:53:12: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 00:53:20: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 00:55:05: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 00:55:13: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 00:56:58: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 00:57:06: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 00:58:51: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 00:58:59: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 01:00:44: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 01:00:52: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 01:02:37: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 01:02:45: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 01:04:30: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 01:04:38: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 01:06:23: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 01:06:31: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 01:08:16: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 01:08:24: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 01:10:09: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 01:10:17: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 01:12:02: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 01:12:10: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 01:13:55: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 01:14:03: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 01:15:48: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 01:15:56: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 01:17:41: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 01:17:49: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 01:19:34: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 01:19:42: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 01:19:49: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 01:19:59: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_rats
+L 06/30/2020 - 01:21:27: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 01:21:35: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 01:23:20: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 01:23:28: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 01:25:13: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 01:25:21: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 01:27:06: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 01:27:14: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 01:28:59: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 01:29:07: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 01:30:52: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 01:31:00: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 01:32:45: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 01:32:53: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 01:34:38: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 01:34:46: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 01:36:31: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 01:36:39: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 01:38:24: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 01:38:32: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 01:40:17: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 01:40:25: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 01:42:10: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 01:42:18: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 01:44:03: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 01:44:11: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 01:45:56: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 01:46:04: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 34!
+L 06/30/2020 - 01:47:01: -------- Mapchange to de_rats --------
+L 06/30/2020 - 01:47:01: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 01:47:05: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 01:47:08: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 01:48:50: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 01:48:58: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 01:50:43: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 01:50:51: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 01:52:36: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 01:52:44: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 01:54:29: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 01:54:37: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 01:56:22: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 01:56:30: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 01:58:15: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 01:58:23: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 02:00:08: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 02:00:16: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 02:02:01: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 02:02:09: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 02:03:54: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 02:04:02: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 02:05:47: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 02:05:55: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 02:07:40: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 02:07:48: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 02:09:33: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 02:09:41: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 02:11:26: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 02:11:34: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 02:13:19: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 02:13:27: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 02:15:12: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 02:15:20: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 02:17:05: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 02:17:13: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 02:18:58: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 02:19:06: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 02:20:51: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 02:20:59: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 02:22:44: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 02:22:52: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 02:24:37: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 02:24:45: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 02:25:07: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 02:25:17: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_prodigy
+L 06/30/2020 - 02:26:30: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 02:26:38: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 02:28:23: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 02:28:31: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 02:30:16: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 02:30:24: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 02:32:09: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 02:32:17: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 02:34:02: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 02:34:10: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 02:35:55: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 02:36:03: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 02:37:48: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 02:37:56: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 02:39:41: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 02:39:49: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 02:41:34: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 02:41:42: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 02:43:27: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 02:43:35: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 02:45:20: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 02:45:28: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 02:47:13: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 02:47:21: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 02:49:06: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 02:49:14: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 02:50:59: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 02:51:07: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 34!
+L 06/30/2020 - 02:52:04: -------- Mapchange to de_prodigy --------
+L 06/30/2020 - 02:52:04: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 02:52:08: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 02:52:11: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 02:53:53: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 02:54:01: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 02:55:46: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 02:55:54: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 02:57:39: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 02:57:47: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 02:59:32: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 02:59:40: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 03:01:25: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 03:01:33: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 03:03:18: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 03:03:26: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 03:05:11: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 03:05:19: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 03:07:04: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 03:07:12: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 03:08:57: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 03:09:05: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 03:10:50: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 03:10:58: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 03:12:43: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 03:12:51: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 03:14:36: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 03:14:44: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 03:16:29: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 03:16:37: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 03:18:22: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 03:18:30: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 03:20:15: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 03:20:23: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 03:22:08: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 03:22:16: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 03:24:01: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 03:24:09: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 03:25:54: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 03:26:02: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 03:27:47: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 03:27:55: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 03:29:40: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 03:29:48: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 03:30:10: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 03:30:20: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_assault
+L 06/30/2020 - 03:31:33: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 03:31:41: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 03:33:26: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 03:33:34: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 03:35:19: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 03:35:27: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 03:37:12: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 03:37:20: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 03:39:05: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 03:39:13: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 03:40:58: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 03:41:06: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 03:42:51: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 03:42:59: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 03:44:44: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 03:44:52: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 03:46:37: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 03:46:45: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 03:48:30: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 03:48:38: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 03:50:23: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 03:50:31: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 03:52:16: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 03:52:24: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 03:54:09: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 03:54:17: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 03:56:02: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 03:56:10: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 34!
+L 06/30/2020 - 03:57:07: -------- Mapchange to cs_assault --------
+L 06/30/2020 - 03:57:07: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 03:57:12: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 03:57:15: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 03:58:57: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 03:59:05: [killlog.amxx] [VALET]:  round start [T] score: 1 [CT] score: 0!
+L 06/30/2020 - 04:00:50: [killlog.amxx] [VALET]:  round end [T] score: 1 [CT] score: 0!
+L 06/30/2020 - 04:00:58: [killlog.amxx] [VALET]:  round start [T] score: 2 [CT] score: 0!
+L 06/30/2020 - 04:02:43: [killlog.amxx] [VALET]:  round end [T] score: 2 [CT] score: 0!
+L 06/30/2020 - 04:02:51: [killlog.amxx] [VALET]:  round start [T] score: 3 [CT] score: 0!
+L 06/30/2020 - 04:04:36: [killlog.amxx] [VALET]:  round end [T] score: 3 [CT] score: 0!
+L 06/30/2020 - 04:04:44: [killlog.amxx] [VALET]:  round start [T] score: 4 [CT] score: 0!
+L 06/30/2020 - 04:06:29: [killlog.amxx] [VALET]:  round end [T] score: 4 [CT] score: 0!
+L 06/30/2020 - 04:06:37: [killlog.amxx] [VALET]:  round start [T] score: 5 [CT] score: 0!
+L 06/30/2020 - 04:08:22: [killlog.amxx] [VALET]:  round end [T] score: 5 [CT] score: 0!
+L 06/30/2020 - 04:08:30: [killlog.amxx] [VALET]:  round start [T] score: 6 [CT] score: 0!
+L 06/30/2020 - 04:10:15: [killlog.amxx] [VALET]:  round end [T] score: 6 [CT] score: 0!
+L 06/30/2020 - 04:10:23: [killlog.amxx] [VALET]:  round start [T] score: 7 [CT] score: 0!
+L 06/30/2020 - 04:12:08: [killlog.amxx] [VALET]:  round end [T] score: 7 [CT] score: 0!
+L 06/30/2020 - 04:12:16: [killlog.amxx] [VALET]:  round start [T] score: 8 [CT] score: 0!
+L 06/30/2020 - 04:14:01: [killlog.amxx] [VALET]:  round end [T] score: 8 [CT] score: 0!
+L 06/30/2020 - 04:14:09: [killlog.amxx] [VALET]:  round start [T] score: 9 [CT] score: 0!
+L 06/30/2020 - 04:15:54: [killlog.amxx] [VALET]:  round end [T] score: 9 [CT] score: 0!
+L 06/30/2020 - 04:16:02: [killlog.amxx] [VALET]:  round start [T] score: 10 [CT] score: 0!
+L 06/30/2020 - 04:17:47: [killlog.amxx] [VALET]:  round end [T] score: 10 [CT] score: 0!
+L 06/30/2020 - 04:17:55: [killlog.amxx] [VALET]:  round start [T] score: 11 [CT] score: 0!
+L 06/30/2020 - 04:19:40: [killlog.amxx] [VALET]:  round end [T] score: 11 [CT] score: 0!
+L 06/30/2020 - 04:19:48: [killlog.amxx] [VALET]:  round start [T] score: 12 [CT] score: 0!
+L 06/30/2020 - 04:21:33: [killlog.amxx] [VALET]:  round end [T] score: 12 [CT] score: 0!
+L 06/30/2020 - 04:21:41: [killlog.amxx] [VALET]:  round start [T] score: 13 [CT] score: 0!
+L 06/30/2020 - 04:23:26: [killlog.amxx] [VALET]:  round end [T] score: 13 [CT] score: 0!
+L 06/30/2020 - 04:23:34: [killlog.amxx] [VALET]:  round start [T] score: 14 [CT] score: 0!
+L 06/30/2020 - 04:25:19: [killlog.amxx] [VALET]:  round end [T] score: 14 [CT] score: 0!
+L 06/30/2020 - 04:25:27: [killlog.amxx] [VALET]:  round start [T] score: 15 [CT] score: 0!
+L 06/30/2020 - 04:27:12: [killlog.amxx] [VALET]:  round end [T] score: 15 [CT] score: 0!
+L 06/30/2020 - 04:27:20: [killlog.amxx] [VALET]:  round start [T] score: 16 [CT] score: 0!
+L 06/30/2020 - 04:29:05: [killlog.amxx] [VALET]:  round end [T] score: 16 [CT] score: 0!
+L 06/30/2020 - 04:29:13: [killlog.amxx] [VALET]:  round start [T] score: 17 [CT] score: 0!
+L 06/30/2020 - 04:30:58: [killlog.amxx] [VALET]:  round end [T] score: 17 [CT] score: 0!
+L 06/30/2020 - 04:31:06: [killlog.amxx] [VALET]:  round start [T] score: 18 [CT] score: 0!
+L 06/30/2020 - 04:32:51: [killlog.amxx] [VALET]:  round end [T] score: 18 [CT] score: 0!
+L 06/30/2020 - 04:32:59: [killlog.amxx] [VALET]:  round start [T] score: 19 [CT] score: 0!
+L 06/30/2020 - 04:34:44: [killlog.amxx] [VALET]:  round end [T] score: 19 [CT] score: 0!
+L 06/30/2020 - 04:34:52: [killlog.amxx] [VALET]:  round start [T] score: 20 [CT] score: 0!
+L 06/30/2020 - 04:35:14: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 04:35:24: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_italy
+L 06/30/2020 - 04:36:37: [killlog.amxx] [VALET]:  round end [T] score: 20 [CT] score: 0!
+L 06/30/2020 - 04:36:45: [killlog.amxx] [VALET]:  round start [T] score: 21 [CT] score: 0!
+L 06/30/2020 - 04:38:30: [killlog.amxx] [VALET]:  round end [T] score: 21 [CT] score: 0!
+L 06/30/2020 - 04:38:38: [killlog.amxx] [VALET]:  round start [T] score: 22 [CT] score: 0!
+L 06/30/2020 - 04:40:23: [killlog.amxx] [VALET]:  round end [T] score: 22 [CT] score: 0!
+L 06/30/2020 - 04:40:31: [killlog.amxx] [VALET]:  round start [T] score: 23 [CT] score: 0!
+L 06/30/2020 - 04:42:16: [killlog.amxx] [VALET]:  round end [T] score: 23 [CT] score: 0!
+L 06/30/2020 - 04:42:24: [killlog.amxx] [VALET]:  round start [T] score: 24 [CT] score: 0!
+L 06/30/2020 - 04:44:09: [killlog.amxx] [VALET]:  round end [T] score: 24 [CT] score: 0!
+L 06/30/2020 - 04:44:17: [killlog.amxx] [VALET]:  round start [T] score: 25 [CT] score: 0!
+L 06/30/2020 - 04:46:02: [killlog.amxx] [VALET]:  round end [T] score: 25 [CT] score: 0!
+L 06/30/2020 - 04:46:10: [killlog.amxx] [VALET]:  round start [T] score: 26 [CT] score: 0!
+L 06/30/2020 - 04:47:55: [killlog.amxx] [VALET]:  round end [T] score: 26 [CT] score: 0!
+L 06/30/2020 - 04:48:03: [killlog.amxx] [VALET]:  round start [T] score: 27 [CT] score: 0!
+L 06/30/2020 - 04:49:48: [killlog.amxx] [VALET]:  round end [T] score: 27 [CT] score: 0!
+L 06/30/2020 - 04:49:56: [killlog.amxx] [VALET]:  round start [T] score: 28 [CT] score: 0!
+L 06/30/2020 - 04:51:41: [killlog.amxx] [VALET]:  round end [T] score: 28 [CT] score: 0!
+L 06/30/2020 - 04:51:49: [killlog.amxx] [VALET]:  round start [T] score: 29 [CT] score: 0!
+L 06/30/2020 - 04:53:34: [killlog.amxx] [VALET]:  round end [T] score: 29 [CT] score: 0!
+L 06/30/2020 - 04:53:42: [killlog.amxx] [VALET]:  round start [T] score: 30 [CT] score: 0!
+L 06/30/2020 - 04:55:27: [killlog.amxx] [VALET]:  round end [T] score: 30 [CT] score: 0!
+L 06/30/2020 - 04:55:35: [killlog.amxx] [VALET]:  round start [T] score: 31 [CT] score: 0!
+L 06/30/2020 - 04:57:20: [killlog.amxx] [VALET]:  round end [T] score: 31 [CT] score: 0!
+L 06/30/2020 - 04:57:28: [killlog.amxx] [VALET]:  round start [T] score: 32 [CT] score: 0!
+L 06/30/2020 - 04:59:13: [killlog.amxx] [VALET]:  round end [T] score: 32 [CT] score: 0!
+L 06/30/2020 - 04:59:21: [killlog.amxx] [VALET]:  round start [T] score: 33 [CT] score: 0!
+L 06/30/2020 - 05:01:06: [killlog.amxx] [VALET]:  round end [T] score: 33 [CT] score: 0!
+L 06/30/2020 - 05:01:14: [killlog.amxx] [VALET]:  round start [T] score: 34 [CT] score: 0!
+L 06/30/2020 - 05:02:11: -------- Mapchange to cs_italy --------
+L 06/30/2020 - 05:02:11: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 05:02:15: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 05:02:18: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 05:04:00: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 05:04:08: [killlog.amxx] [VALET]:  round start [T] score: 1 [CT] score: 0!
+L 06/30/2020 - 05:05:53: [killlog.amxx] [VALET]:  round end [T] score: 1 [CT] score: 0!
+L 06/30/2020 - 05:06:01: [killlog.amxx] [VALET]:  round start [T] score: 2 [CT] score: 0!
+L 06/30/2020 - 05:07:46: [killlog.amxx] [VALET]:  round end [T] score: 2 [CT] score: 0!
+L 06/30/2020 - 05:07:54: [killlog.amxx] [VALET]:  round start [T] score: 3 [CT] score: 0!
+L 06/30/2020 - 05:09:39: [killlog.amxx] [VALET]:  round end [T] score: 3 [CT] score: 0!
+L 06/30/2020 - 05:09:47: [killlog.amxx] [VALET]:  round start [T] score: 4 [CT] score: 0!
+L 06/30/2020 - 05:11:32: [killlog.amxx] [VALET]:  round end [T] score: 4 [CT] score: 0!
+L 06/30/2020 - 05:11:40: [killlog.amxx] [VALET]:  round start [T] score: 5 [CT] score: 0!
+L 06/30/2020 - 05:13:25: [killlog.amxx] [VALET]:  round end [T] score: 5 [CT] score: 0!
+L 06/30/2020 - 05:13:33: [killlog.amxx] [VALET]:  round start [T] score: 6 [CT] score: 0!
+L 06/30/2020 - 05:15:18: [killlog.amxx] [VALET]:  round end [T] score: 6 [CT] score: 0!
+L 06/30/2020 - 05:15:26: [killlog.amxx] [VALET]:  round start [T] score: 7 [CT] score: 0!
+L 06/30/2020 - 05:17:11: [killlog.amxx] [VALET]:  round end [T] score: 7 [CT] score: 0!
+L 06/30/2020 - 05:17:19: [killlog.amxx] [VALET]:  round start [T] score: 8 [CT] score: 0!
+L 06/30/2020 - 05:19:04: [killlog.amxx] [VALET]:  round end [T] score: 8 [CT] score: 0!
+L 06/30/2020 - 05:19:12: [killlog.amxx] [VALET]:  round start [T] score: 9 [CT] score: 0!
+L 06/30/2020 - 05:20:57: [killlog.amxx] [VALET]:  round end [T] score: 9 [CT] score: 0!
+L 06/30/2020 - 05:21:05: [killlog.amxx] [VALET]:  round start [T] score: 10 [CT] score: 0!
+L 06/30/2020 - 05:22:50: [killlog.amxx] [VALET]:  round end [T] score: 10 [CT] score: 0!
+L 06/30/2020 - 05:22:58: [killlog.amxx] [VALET]:  round start [T] score: 11 [CT] score: 0!
+L 06/30/2020 - 05:24:43: [killlog.amxx] [VALET]:  round end [T] score: 11 [CT] score: 0!
+L 06/30/2020 - 05:24:51: [killlog.amxx] [VALET]:  round start [T] score: 12 [CT] score: 0!
+L 06/30/2020 - 05:26:36: [killlog.amxx] [VALET]:  round end [T] score: 12 [CT] score: 0!
+L 06/30/2020 - 05:26:44: [killlog.amxx] [VALET]:  round start [T] score: 13 [CT] score: 0!
+L 06/30/2020 - 05:28:29: [killlog.amxx] [VALET]:  round end [T] score: 13 [CT] score: 0!
+L 06/30/2020 - 05:28:37: [killlog.amxx] [VALET]:  round start [T] score: 14 [CT] score: 0!
+L 06/30/2020 - 05:30:22: [killlog.amxx] [VALET]:  round end [T] score: 14 [CT] score: 0!
+L 06/30/2020 - 05:30:30: [killlog.amxx] [VALET]:  round start [T] score: 15 [CT] score: 0!
+L 06/30/2020 - 05:32:15: [killlog.amxx] [VALET]:  round end [T] score: 15 [CT] score: 0!
+L 06/30/2020 - 05:32:23: [killlog.amxx] [VALET]:  round start [T] score: 16 [CT] score: 0!
+L 06/30/2020 - 05:34:08: [killlog.amxx] [VALET]:  round end [T] score: 16 [CT] score: 0!
+L 06/30/2020 - 05:34:16: [killlog.amxx] [VALET]:  round start [T] score: 17 [CT] score: 0!
+L 06/30/2020 - 05:36:01: [killlog.amxx] [VALET]:  round end [T] score: 17 [CT] score: 0!
+L 06/30/2020 - 05:36:09: [killlog.amxx] [VALET]:  round start [T] score: 18 [CT] score: 0!
+L 06/30/2020 - 05:37:54: [killlog.amxx] [VALET]:  round end [T] score: 18 [CT] score: 0!
+L 06/30/2020 - 05:38:02: [killlog.amxx] [VALET]:  round start [T] score: 19 [CT] score: 0!
+L 06/30/2020 - 05:39:47: [killlog.amxx] [VALET]:  round end [T] score: 19 [CT] score: 0!
+L 06/30/2020 - 05:39:55: [killlog.amxx] [VALET]:  round start [T] score: 20 [CT] score: 0!
+L 06/30/2020 - 05:40:02: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 05:40:12: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_estate
+L 06/30/2020 - 05:41:40: [killlog.amxx] [VALET]:  round end [T] score: 20 [CT] score: 0!
+L 06/30/2020 - 05:41:48: [killlog.amxx] [VALET]:  round start [T] score: 21 [CT] score: 0!
+L 06/30/2020 - 05:43:33: [killlog.amxx] [VALET]:  round end [T] score: 21 [CT] score: 0!
+L 06/30/2020 - 05:43:41: [killlog.amxx] [VALET]:  round start [T] score: 22 [CT] score: 0!
+L 06/30/2020 - 05:45:26: [killlog.amxx] [VALET]:  round end [T] score: 22 [CT] score: 0!
+L 06/30/2020 - 05:45:34: [killlog.amxx] [VALET]:  round start [T] score: 23 [CT] score: 0!
+L 06/30/2020 - 05:47:19: [killlog.amxx] [VALET]:  round end [T] score: 23 [CT] score: 0!
+L 06/30/2020 - 05:47:27: [killlog.amxx] [VALET]:  round start [T] score: 24 [CT] score: 0!
+L 06/30/2020 - 05:49:12: [killlog.amxx] [VALET]:  round end [T] score: 24 [CT] score: 0!
+L 06/30/2020 - 05:49:20: [killlog.amxx] [VALET]:  round start [T] score: 25 [CT] score: 0!
+L 06/30/2020 - 05:51:05: [killlog.amxx] [VALET]:  round end [T] score: 25 [CT] score: 0!
+L 06/30/2020 - 05:51:13: [killlog.amxx] [VALET]:  round start [T] score: 26 [CT] score: 0!
+L 06/30/2020 - 05:52:58: [killlog.amxx] [VALET]:  round end [T] score: 26 [CT] score: 0!
+L 06/30/2020 - 05:53:06: [killlog.amxx] [VALET]:  round start [T] score: 27 [CT] score: 0!
+L 06/30/2020 - 05:54:51: [killlog.amxx] [VALET]:  round end [T] score: 27 [CT] score: 0!
+L 06/30/2020 - 05:54:59: [killlog.amxx] [VALET]:  round start [T] score: 28 [CT] score: 0!
+L 06/30/2020 - 05:56:44: [killlog.amxx] [VALET]:  round end [T] score: 28 [CT] score: 0!
+L 06/30/2020 - 05:56:52: [killlog.amxx] [VALET]:  round start [T] score: 29 [CT] score: 0!
+L 06/30/2020 - 05:58:37: [killlog.amxx] [VALET]:  round end [T] score: 29 [CT] score: 0!
+L 06/30/2020 - 05:58:45: [killlog.amxx] [VALET]:  round start [T] score: 30 [CT] score: 0!
+L 06/30/2020 - 06:00:30: [killlog.amxx] [VALET]:  round end [T] score: 30 [CT] score: 0!
+L 06/30/2020 - 06:00:38: [killlog.amxx] [VALET]:  round start [T] score: 31 [CT] score: 0!
+L 06/30/2020 - 06:02:23: [killlog.amxx] [VALET]:  round end [T] score: 31 [CT] score: 0!
+L 06/30/2020 - 06:02:31: [killlog.amxx] [VALET]:  round start [T] score: 32 [CT] score: 0!
+L 06/30/2020 - 06:04:16: [killlog.amxx] [VALET]:  round end [T] score: 32 [CT] score: 0!
+L 06/30/2020 - 06:04:24: [killlog.amxx] [VALET]:  round start [T] score: 33 [CT] score: 0!
+L 06/30/2020 - 06:06:09: [killlog.amxx] [VALET]:  round end [T] score: 33 [CT] score: 0!
+L 06/30/2020 - 06:06:17: [killlog.amxx] [VALET]:  round start [T] score: 34 [CT] score: 0!
+L 06/30/2020 - 06:07:14: -------- Mapchange to cs_estate --------
+L 06/30/2020 - 06:07:14: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 06:07:18: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 06:07:21: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 06:09:03: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 06:09:11: [killlog.amxx] [VALET]:  round start [T] score: 1 [CT] score: 0!
+L 06/30/2020 - 06:10:56: [killlog.amxx] [VALET]:  round end [T] score: 1 [CT] score: 0!
+L 06/30/2020 - 06:11:04: [killlog.amxx] [VALET]:  round start [T] score: 2 [CT] score: 0!
+L 06/30/2020 - 06:12:49: [killlog.amxx] [VALET]:  round end [T] score: 2 [CT] score: 0!
+L 06/30/2020 - 06:12:57: [killlog.amxx] [VALET]:  round start [T] score: 3 [CT] score: 0!
+L 06/30/2020 - 06:14:42: [killlog.amxx] [VALET]:  round end [T] score: 3 [CT] score: 0!
+L 06/30/2020 - 06:14:50: [killlog.amxx] [VALET]:  round start [T] score: 4 [CT] score: 0!
+L 06/30/2020 - 06:16:35: [killlog.amxx] [VALET]:  round end [T] score: 4 [CT] score: 0!
+L 06/30/2020 - 06:16:43: [killlog.amxx] [VALET]:  round start [T] score: 5 [CT] score: 0!
+L 06/30/2020 - 06:18:28: [killlog.amxx] [VALET]:  round end [T] score: 5 [CT] score: 0!
+L 06/30/2020 - 06:18:36: [killlog.amxx] [VALET]:  round start [T] score: 6 [CT] score: 0!
+L 06/30/2020 - 06:20:21: [killlog.amxx] [VALET]:  round end [T] score: 6 [CT] score: 0!
+L 06/30/2020 - 06:20:29: [killlog.amxx] [VALET]:  round start [T] score: 7 [CT] score: 0!
+L 06/30/2020 - 06:22:14: [killlog.amxx] [VALET]:  round end [T] score: 7 [CT] score: 0!
+L 06/30/2020 - 06:22:22: [killlog.amxx] [VALET]:  round start [T] score: 8 [CT] score: 0!
+L 06/30/2020 - 06:24:07: [killlog.amxx] [VALET]:  round end [T] score: 8 [CT] score: 0!
+L 06/30/2020 - 06:24:15: [killlog.amxx] [VALET]:  round start [T] score: 9 [CT] score: 0!
+L 06/30/2020 - 06:26:00: [killlog.amxx] [VALET]:  round end [T] score: 9 [CT] score: 0!
+L 06/30/2020 - 06:26:08: [killlog.amxx] [VALET]:  round start [T] score: 10 [CT] score: 0!
+L 06/30/2020 - 06:27:53: [killlog.amxx] [VALET]:  round end [T] score: 10 [CT] score: 0!
+L 06/30/2020 - 06:28:01: [killlog.amxx] [VALET]:  round start [T] score: 11 [CT] score: 0!
+L 06/30/2020 - 06:29:46: [killlog.amxx] [VALET]:  round end [T] score: 11 [CT] score: 0!
+L 06/30/2020 - 06:29:54: [killlog.amxx] [VALET]:  round start [T] score: 12 [CT] score: 0!
+L 06/30/2020 - 06:31:39: [killlog.amxx] [VALET]:  round end [T] score: 12 [CT] score: 0!
+L 06/30/2020 - 06:31:47: [killlog.amxx] [VALET]:  round start [T] score: 13 [CT] score: 0!
+L 06/30/2020 - 06:33:32: [killlog.amxx] [VALET]:  round end [T] score: 13 [CT] score: 0!
+L 06/30/2020 - 06:33:40: [killlog.amxx] [VALET]:  round start [T] score: 14 [CT] score: 0!
+L 06/30/2020 - 06:35:25: [killlog.amxx] [VALET]:  round end [T] score: 14 [CT] score: 0!
+L 06/30/2020 - 06:35:33: [killlog.amxx] [VALET]:  round start [T] score: 15 [CT] score: 0!
+L 06/30/2020 - 06:37:18: [killlog.amxx] [VALET]:  round end [T] score: 15 [CT] score: 0!
+L 06/30/2020 - 06:37:26: [killlog.amxx] [VALET]:  round start [T] score: 16 [CT] score: 0!
+L 06/30/2020 - 06:39:11: [killlog.amxx] [VALET]:  round end [T] score: 16 [CT] score: 0!
+L 06/30/2020 - 06:39:19: [killlog.amxx] [VALET]:  round start [T] score: 17 [CT] score: 0!
+L 06/30/2020 - 06:41:04: [killlog.amxx] [VALET]:  round end [T] score: 17 [CT] score: 0!
+L 06/30/2020 - 06:41:12: [killlog.amxx] [VALET]:  round start [T] score: 18 [CT] score: 0!
+L 06/30/2020 - 06:42:57: [killlog.amxx] [VALET]:  round end [T] score: 18 [CT] score: 0!
+L 06/30/2020 - 06:43:05: [killlog.amxx] [VALET]:  round start [T] score: 19 [CT] score: 0!
+L 06/30/2020 - 06:44:50: [killlog.amxx] [VALET]:  round end [T] score: 19 [CT] score: 0!
+L 06/30/2020 - 06:44:58: [killlog.amxx] [VALET]:  round start [T] score: 20 [CT] score: 0!
+L 06/30/2020 - 06:45:20: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 06:45:30: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_pool_day
+L 06/30/2020 - 06:46:43: [killlog.amxx] [VALET]:  round end [T] score: 20 [CT] score: 0!
+L 06/30/2020 - 06:46:51: [killlog.amxx] [VALET]:  round start [T] score: 21 [CT] score: 0!
+L 06/30/2020 - 06:48:36: [killlog.amxx] [VALET]:  round end [T] score: 21 [CT] score: 0!
+L 06/30/2020 - 06:48:44: [killlog.amxx] [VALET]:  round start [T] score: 22 [CT] score: 0!
+L 06/30/2020 - 06:50:29: [killlog.amxx] [VALET]:  round end [T] score: 22 [CT] score: 0!
+L 06/30/2020 - 06:50:37: [killlog.amxx] [VALET]:  round start [T] score: 23 [CT] score: 0!
+L 06/30/2020 - 06:52:22: [killlog.amxx] [VALET]:  round end [T] score: 23 [CT] score: 0!
+L 06/30/2020 - 06:52:30: [killlog.amxx] [VALET]:  round start [T] score: 24 [CT] score: 0!
+L 06/30/2020 - 06:54:15: [killlog.amxx] [VALET]:  round end [T] score: 24 [CT] score: 0!
+L 06/30/2020 - 06:54:23: [killlog.amxx] [VALET]:  round start [T] score: 25 [CT] score: 0!
+L 06/30/2020 - 06:56:08: [killlog.amxx] [VALET]:  round end [T] score: 25 [CT] score: 0!
+L 06/30/2020 - 06:56:16: [killlog.amxx] [VALET]:  round start [T] score: 26 [CT] score: 0!
+L 06/30/2020 - 06:58:01: [killlog.amxx] [VALET]:  round end [T] score: 26 [CT] score: 0!
+L 06/30/2020 - 06:58:09: [killlog.amxx] [VALET]:  round start [T] score: 27 [CT] score: 0!
+L 06/30/2020 - 06:59:54: [killlog.amxx] [VALET]:  round end [T] score: 27 [CT] score: 0!
+L 06/30/2020 - 07:00:02: [killlog.amxx] [VALET]:  round start [T] score: 28 [CT] score: 0!
+L 06/30/2020 - 07:01:47: [killlog.amxx] [VALET]:  round end [T] score: 28 [CT] score: 0!
+L 06/30/2020 - 07:01:55: [killlog.amxx] [VALET]:  round start [T] score: 29 [CT] score: 0!
+L 06/30/2020 - 07:03:40: [killlog.amxx] [VALET]:  round end [T] score: 29 [CT] score: 0!
+L 06/30/2020 - 07:03:48: [killlog.amxx] [VALET]:  round start [T] score: 30 [CT] score: 0!
+L 06/30/2020 - 07:05:33: [killlog.amxx] [VALET]:  round end [T] score: 30 [CT] score: 0!
+L 06/30/2020 - 07:05:41: [killlog.amxx] [VALET]:  round start [T] score: 31 [CT] score: 0!
+L 06/30/2020 - 07:07:26: [killlog.amxx] [VALET]:  round end [T] score: 31 [CT] score: 0!
+L 06/30/2020 - 07:07:34: [killlog.amxx] [VALET]:  round start [T] score: 32 [CT] score: 0!
+L 06/30/2020 - 07:09:19: [killlog.amxx] [VALET]:  round end [T] score: 32 [CT] score: 0!
+L 06/30/2020 - 07:09:27: [killlog.amxx] [VALET]:  round start [T] score: 33 [CT] score: 0!
+L 06/30/2020 - 07:11:12: [killlog.amxx] [VALET]:  round end [T] score: 33 [CT] score: 0!
+L 06/30/2020 - 07:11:20: [killlog.amxx] [VALET]:  round start [T] score: 34 [CT] score: 0!
+L 06/30/2020 - 07:12:17: -------- Mapchange to fy_pool_day --------
+L 06/30/2020 - 07:12:17: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 07:12:21: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 07:12:24: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 07:14:06: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 07:14:14: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 07:15:59: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 07:16:07: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 07:17:52: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 07:18:00: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 07:19:45: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 07:19:53: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 07:21:38: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 07:21:46: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 07:23:31: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 07:23:39: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 07:25:24: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 07:25:32: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 07:27:17: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 07:27:25: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 07:29:10: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 07:29:18: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 07:31:03: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 07:31:11: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 07:32:56: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 07:33:04: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 07:34:49: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 07:34:57: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 07:36:42: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 07:36:50: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 07:38:35: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 07:38:43: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 07:40:28: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 07:40:36: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 07:42:21: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 07:42:29: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 07:44:14: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 07:44:22: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 07:46:07: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 07:46:15: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 07:48:00: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 07:48:08: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 07:49:53: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 07:50:01: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 07:50:23: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 07:50:33: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_militia
+L 06/30/2020 - 07:51:46: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 07:51:54: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 07:53:39: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 07:53:47: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 07:55:32: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 07:55:40: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 07:57:25: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 07:57:33: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 07:59:18: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 07:59:26: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 08:01:11: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 08:01:19: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 08:03:04: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 08:03:12: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 08:04:57: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 08:05:05: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 08:06:50: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 08:06:58: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 08:08:43: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 08:08:51: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 08:10:36: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 08:10:44: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 08:12:29: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 08:12:37: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 08:14:22: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 08:14:30: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 08:16:15: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 08:16:23: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 34!
+L 06/30/2020 - 08:17:20: -------- Mapchange to cs_militia --------
+L 06/30/2020 - 08:17:20: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 08:17:24: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 08:17:28: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 08:19:09: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 08:19:17: [killlog.amxx] [VALET]:  round start [T] score: 1 [CT] score: 0!
+L 06/30/2020 - 08:21:02: [killlog.amxx] [VALET]:  round end [T] score: 1 [CT] score: 0!
+L 06/30/2020 - 08:21:11: [killlog.amxx] [VALET]:  round start [T] score: 2 [CT] score: 0!
+L 06/30/2020 - 08:22:56: [killlog.amxx] [VALET]:  round end [T] score: 2 [CT] score: 0!
+L 06/30/2020 - 08:23:04: [killlog.amxx] [VALET]:  round start [T] score: 3 [CT] score: 0!
+L 06/30/2020 - 08:24:49: [killlog.amxx] [VALET]:  round end [T] score: 3 [CT] score: 0!
+L 06/30/2020 - 08:24:57: [killlog.amxx] [VALET]:  round start [T] score: 4 [CT] score: 0!
+L 06/30/2020 - 08:26:42: [killlog.amxx] [VALET]:  round end [T] score: 4 [CT] score: 0!
+L 06/30/2020 - 08:26:50: [killlog.amxx] [VALET]:  round start [T] score: 5 [CT] score: 0!
+L 06/30/2020 - 08:28:35: [killlog.amxx] [VALET]:  round end [T] score: 5 [CT] score: 0!
+L 06/30/2020 - 08:28:43: [killlog.amxx] [VALET]:  round start [T] score: 6 [CT] score: 0!
+L 06/30/2020 - 08:30:28: [killlog.amxx] [VALET]:  round end [T] score: 6 [CT] score: 0!
+L 06/30/2020 - 08:30:36: [killlog.amxx] [VALET]:  round start [T] score: 7 [CT] score: 0!
+L 06/30/2020 - 08:32:21: [killlog.amxx] [VALET]:  round end [T] score: 7 [CT] score: 0!
+L 06/30/2020 - 08:32:29: [killlog.amxx] [VALET]:  round start [T] score: 8 [CT] score: 0!
+L 06/30/2020 - 08:34:14: [killlog.amxx] [VALET]:  round end [T] score: 8 [CT] score: 0!
+L 06/30/2020 - 08:34:22: [killlog.amxx] [VALET]:  round start [T] score: 9 [CT] score: 0!
+L 06/30/2020 - 08:36:07: [killlog.amxx] [VALET]:  round end [T] score: 9 [CT] score: 0!
+L 06/30/2020 - 08:36:15: [killlog.amxx] [VALET]:  round start [T] score: 10 [CT] score: 0!
+L 06/30/2020 - 08:38:00: [killlog.amxx] [VALET]:  round end [T] score: 10 [CT] score: 0!
+L 06/30/2020 - 08:38:08: [killlog.amxx] [VALET]:  round start [T] score: 11 [CT] score: 0!
+L 06/30/2020 - 08:39:53: [killlog.amxx] [VALET]:  round end [T] score: 11 [CT] score: 0!
+L 06/30/2020 - 08:40:01: [killlog.amxx] [VALET]:  round start [T] score: 12 [CT] score: 0!
+L 06/30/2020 - 08:41:46: [killlog.amxx] [VALET]:  round end [T] score: 12 [CT] score: 0!
+L 06/30/2020 - 08:41:54: [killlog.amxx] [VALET]:  round start [T] score: 13 [CT] score: 0!
+L 06/30/2020 - 08:43:39: [killlog.amxx] [VALET]:  round end [T] score: 13 [CT] score: 0!
+L 06/30/2020 - 08:43:47: [killlog.amxx] [VALET]:  round start [T] score: 14 [CT] score: 0!
+L 06/30/2020 - 08:45:32: [killlog.amxx] [VALET]:  round end [T] score: 14 [CT] score: 0!
+L 06/30/2020 - 08:45:40: [killlog.amxx] [VALET]:  round start [T] score: 15 [CT] score: 0!
+L 06/30/2020 - 08:47:25: [killlog.amxx] [VALET]:  round end [T] score: 15 [CT] score: 0!
+L 06/30/2020 - 08:47:33: [killlog.amxx] [VALET]:  round start [T] score: 16 [CT] score: 0!
+L 06/30/2020 - 08:49:18: [killlog.amxx] [VALET]:  round end [T] score: 16 [CT] score: 0!
+L 06/30/2020 - 08:49:26: [killlog.amxx] [VALET]:  round start [T] score: 17 [CT] score: 0!
+L 06/30/2020 - 08:51:11: [killlog.amxx] [VALET]:  round end [T] score: 17 [CT] score: 0!
+L 06/30/2020 - 08:51:19: [killlog.amxx] [VALET]:  round start [T] score: 18 [CT] score: 0!
+L 06/30/2020 - 08:53:04: [killlog.amxx] [VALET]:  round end [T] score: 18 [CT] score: 0!
+L 06/30/2020 - 08:53:12: [killlog.amxx] [VALET]:  round start [T] score: 19 [CT] score: 0!
+L 06/30/2020 - 08:54:57: [killlog.amxx] [VALET]:  round end [T] score: 19 [CT] score: 0!
+L 06/30/2020 - 08:55:05: [killlog.amxx] [VALET]:  round start [T] score: 20 [CT] score: 0!
+L 06/30/2020 - 08:55:27: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 08:55:37: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_train
+L 06/30/2020 - 08:56:50: [killlog.amxx] [VALET]:  round end [T] score: 20 [CT] score: 0!
+L 06/30/2020 - 08:56:58: [killlog.amxx] [VALET]:  round start [T] score: 21 [CT] score: 0!
+L 06/30/2020 - 08:58:43: [killlog.amxx] [VALET]:  round end [T] score: 21 [CT] score: 0!
+L 06/30/2020 - 08:58:51: [killlog.amxx] [VALET]:  round start [T] score: 22 [CT] score: 0!
+L 06/30/2020 - 09:00:36: [killlog.amxx] [VALET]:  round end [T] score: 22 [CT] score: 0!
+L 06/30/2020 - 09:00:44: [killlog.amxx] [VALET]:  round start [T] score: 23 [CT] score: 0!
+L 06/30/2020 - 09:02:29: [killlog.amxx] [VALET]:  round end [T] score: 23 [CT] score: 0!
+L 06/30/2020 - 09:02:37: [killlog.amxx] [VALET]:  round start [T] score: 24 [CT] score: 0!
+L 06/30/2020 - 09:04:22: [killlog.amxx] [VALET]:  round end [T] score: 24 [CT] score: 0!
+L 06/30/2020 - 09:04:30: [killlog.amxx] [VALET]:  round start [T] score: 25 [CT] score: 0!
+L 06/30/2020 - 09:06:15: [killlog.amxx] [VALET]:  round end [T] score: 25 [CT] score: 0!
+L 06/30/2020 - 09:06:23: [killlog.amxx] [VALET]:  round start [T] score: 26 [CT] score: 0!
+L 06/30/2020 - 09:08:08: [killlog.amxx] [VALET]:  round end [T] score: 26 [CT] score: 0!
+L 06/30/2020 - 09:08:16: [killlog.amxx] [VALET]:  round start [T] score: 27 [CT] score: 0!
+L 06/30/2020 - 09:10:01: [killlog.amxx] [VALET]:  round end [T] score: 27 [CT] score: 0!
+L 06/30/2020 - 09:10:09: [killlog.amxx] [VALET]:  round start [T] score: 28 [CT] score: 0!
+L 06/30/2020 - 09:11:54: [killlog.amxx] [VALET]:  round end [T] score: 28 [CT] score: 0!
+L 06/30/2020 - 09:12:02: [killlog.amxx] [VALET]:  round start [T] score: 29 [CT] score: 0!
+L 06/30/2020 - 09:13:47: [killlog.amxx] [VALET]:  round end [T] score: 29 [CT] score: 0!
+L 06/30/2020 - 09:13:55: [killlog.amxx] [VALET]:  round start [T] score: 30 [CT] score: 0!
+L 06/30/2020 - 09:15:40: [killlog.amxx] [VALET]:  round end [T] score: 30 [CT] score: 0!
+L 06/30/2020 - 09:15:48: [killlog.amxx] [VALET]:  round start [T] score: 31 [CT] score: 0!
+L 06/30/2020 - 09:17:33: [killlog.amxx] [VALET]:  round end [T] score: 31 [CT] score: 0!
+L 06/30/2020 - 09:17:41: [killlog.amxx] [VALET]:  round start [T] score: 32 [CT] score: 0!
+L 06/30/2020 - 09:19:26: [killlog.amxx] [VALET]:  round end [T] score: 32 [CT] score: 0!
+L 06/30/2020 - 09:19:34: [killlog.amxx] [VALET]:  round start [T] score: 33 [CT] score: 0!
+L 06/30/2020 - 09:21:19: [killlog.amxx] [VALET]:  round end [T] score: 33 [CT] score: 0!
+L 06/30/2020 - 09:21:27: [killlog.amxx] [VALET]:  round start [T] score: 34 [CT] score: 0!
+L 06/30/2020 - 09:22:24: -------- Mapchange to de_train --------
+L 06/30/2020 - 09:22:24: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 09:22:28: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 09:22:31: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 09:24:13: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 09:24:21: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 09:26:06: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 09:26:14: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 09:27:59: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 09:28:07: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 09:29:52: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 09:30:00: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 09:31:45: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 09:31:53: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 09:33:38: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 09:33:46: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 09:35:31: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 09:35:39: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 09:37:24: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 09:37:32: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 09:39:17: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 09:39:25: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 09:41:10: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 09:41:18: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 09:43:03: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 09:43:11: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 09:44:56: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 09:45:04: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 09:46:49: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 09:46:57: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 09:48:42: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 09:48:50: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 09:50:35: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 09:50:43: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 09:52:28: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 09:52:36: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 09:54:21: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 09:54:29: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 09:56:14: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 09:56:22: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 09:58:07: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 09:58:15: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 10:00:00: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 10:00:08: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 10:00:30: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 10:00:40: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_ak-colt
+L 06/30/2020 - 10:01:53: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 10:02:01: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 10:03:46: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 10:03:54: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 10:05:39: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 10:05:47: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 10:07:32: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 10:07:40: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 10:09:25: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 10:09:33: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 10:11:18: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 10:11:26: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 10:13:11: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 10:13:19: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 10:15:04: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 10:15:12: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 10:16:57: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 10:17:05: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 10:18:50: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 10:18:58: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 10:20:43: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 10:20:51: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 10:22:36: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 10:22:44: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 10:24:29: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 10:24:37: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 10:26:22: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 10:26:30: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 34!
+L 06/30/2020 - 10:27:27: -------- Mapchange to aim_ak-colt --------
+L 06/30/2020 - 10:27:27: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 10:27:31: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 10:27:34: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 11:05:18: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 11:05:28: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_headshot
+L 06/30/2020 - 11:32:30: -------- Mapchange to aim_headshot --------
+L 06/30/2020 - 11:32:30: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 11:32:34: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 11:32:37: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 12:10:21: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 12:10:31: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be aim_map
+L 06/30/2020 - 12:37:33: -------- Mapchange to aim_map --------
+L 06/30/2020 - 12:37:33: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 12:37:37: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 12:37:40: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 13:15:24: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 13:15:34: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_16fighter
+L 06/30/2020 - 13:42:36: -------- Mapchange to cs_16fighter --------
+L 06/30/2020 - 13:42:36: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 13:42:40: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 13:42:43: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 14:20:27: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 14:20:38: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_pf_dust
+L 06/30/2020 - 14:47:39: -------- Mapchange to cs_pf_dust --------
+L 06/30/2020 - 14:47:39: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 14:47:44: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 14:47:47: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 15:25:31: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 15:25:41: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be fy_iceworld_2002
+L 06/30/2020 - 15:52:42: -------- Mapchange to fy_iceworld_2002 --------
+L 06/30/2020 - 15:52:43: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 15:52:47: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 15:52:50: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 16:30:34: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 16:30:44: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_mansion
+L 06/30/2020 - 16:57:46: -------- Mapchange to cs_mansion --------
+L 06/30/2020 - 16:57:46: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 16:57:50: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 16:57:53: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 16:59:35: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 16:59:43: [killlog.amxx] [VALET]:  round start [T] score: 1 [CT] score: 0!
+L 06/30/2020 - 17:01:28: [killlog.amxx] [VALET]:  round end [T] score: 1 [CT] score: 0!
+L 06/30/2020 - 17:01:36: [killlog.amxx] [VALET]:  round start [T] score: 2 [CT] score: 0!
+L 06/30/2020 - 17:03:21: [killlog.amxx] [VALET]:  round end [T] score: 2 [CT] score: 0!
+L 06/30/2020 - 17:03:29: [killlog.amxx] [VALET]:  round start [T] score: 3 [CT] score: 0!
+L 06/30/2020 - 17:05:14: [killlog.amxx] [VALET]:  round end [T] score: 3 [CT] score: 0!
+L 06/30/2020 - 17:05:22: [killlog.amxx] [VALET]:  round start [T] score: 4 [CT] score: 0!
+L 06/30/2020 - 17:07:07: [killlog.amxx] [VALET]:  round end [T] score: 4 [CT] score: 0!
+L 06/30/2020 - 17:07:15: [killlog.amxx] [VALET]:  round start [T] score: 5 [CT] score: 0!
+L 06/30/2020 - 17:09:00: [killlog.amxx] [VALET]:  round end [T] score: 5 [CT] score: 0!
+L 06/30/2020 - 17:09:08: [killlog.amxx] [VALET]:  round start [T] score: 6 [CT] score: 0!
+L 06/30/2020 - 17:10:53: [killlog.amxx] [VALET]:  round end [T] score: 6 [CT] score: 0!
+L 06/30/2020 - 17:11:01: [killlog.amxx] [VALET]:  round start [T] score: 7 [CT] score: 0!
+L 06/30/2020 - 17:12:46: [killlog.amxx] [VALET]:  round end [T] score: 7 [CT] score: 0!
+L 06/30/2020 - 17:12:54: [killlog.amxx] [VALET]:  round start [T] score: 8 [CT] score: 0!
+L 06/30/2020 - 17:14:39: [killlog.amxx] [VALET]:  round end [T] score: 8 [CT] score: 0!
+L 06/30/2020 - 17:14:47: [killlog.amxx] [VALET]:  round start [T] score: 9 [CT] score: 0!
+L 06/30/2020 - 17:16:32: [killlog.amxx] [VALET]:  round end [T] score: 9 [CT] score: 0!
+L 06/30/2020 - 17:16:40: [killlog.amxx] [VALET]:  round start [T] score: 10 [CT] score: 0!
+L 06/30/2020 - 17:18:25: [killlog.amxx] [VALET]:  round end [T] score: 10 [CT] score: 0!
+L 06/30/2020 - 17:18:33: [killlog.amxx] [VALET]:  round start [T] score: 11 [CT] score: 0!
+L 06/30/2020 - 17:20:18: [killlog.amxx] [VALET]:  round end [T] score: 11 [CT] score: 0!
+L 06/30/2020 - 17:20:26: [killlog.amxx] [VALET]:  round start [T] score: 12 [CT] score: 0!
+L 06/30/2020 - 17:22:11: [killlog.amxx] [VALET]:  round end [T] score: 12 [CT] score: 0!
+L 06/30/2020 - 17:22:19: [killlog.amxx] [VALET]:  round start [T] score: 13 [CT] score: 0!
+L 06/30/2020 - 17:24:04: [killlog.amxx] [VALET]:  round end [T] score: 13 [CT] score: 0!
+L 06/30/2020 - 17:24:12: [killlog.amxx] [VALET]:  round start [T] score: 14 [CT] score: 0!
+L 06/30/2020 - 17:25:57: [killlog.amxx] [VALET]:  round end [T] score: 14 [CT] score: 0!
+L 06/30/2020 - 17:26:05: [killlog.amxx] [VALET]:  round start [T] score: 15 [CT] score: 0!
+L 06/30/2020 - 17:27:50: [killlog.amxx] [VALET]:  round end [T] score: 15 [CT] score: 0!
+L 06/30/2020 - 17:27:58: [killlog.amxx] [VALET]:  round start [T] score: 16 [CT] score: 0!
+L 06/30/2020 - 17:29:43: [killlog.amxx] [VALET]:  round end [T] score: 16 [CT] score: 0!
+L 06/30/2020 - 17:29:51: [killlog.amxx] [VALET]:  round start [T] score: 17 [CT] score: 0!
+L 06/30/2020 - 17:31:36: [killlog.amxx] [VALET]:  round end [T] score: 17 [CT] score: 0!
+L 06/30/2020 - 17:31:44: [killlog.amxx] [VALET]:  round start [T] score: 18 [CT] score: 0!
+L 06/30/2020 - 17:33:29: [killlog.amxx] [VALET]:  round end [T] score: 18 [CT] score: 0!
+L 06/30/2020 - 17:33:37: [killlog.amxx] [VALET]:  round start [T] score: 19 [CT] score: 0!
+L 06/30/2020 - 17:35:22: [killlog.amxx] [VALET]:  round end [T] score: 19 [CT] score: 0!
+L 06/30/2020 - 17:35:30: [killlog.amxx] [VALET]:  round start [T] score: 20 [CT] score: 0!
+L 06/30/2020 - 17:35:52: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 17:36:02: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_dust2_2x2
+L 06/30/2020 - 17:37:15: [killlog.amxx] [VALET]:  round end [T] score: 20 [CT] score: 0!
+L 06/30/2020 - 17:37:23: [killlog.amxx] [VALET]:  round start [T] score: 21 [CT] score: 0!
+L 06/30/2020 - 17:39:08: [killlog.amxx] [VALET]:  round end [T] score: 21 [CT] score: 0!
+L 06/30/2020 - 17:39:16: [killlog.amxx] [VALET]:  round start [T] score: 22 [CT] score: 0!
+L 06/30/2020 - 17:41:01: [killlog.amxx] [VALET]:  round end [T] score: 22 [CT] score: 0!
+L 06/30/2020 - 17:41:09: [killlog.amxx] [VALET]:  round start [T] score: 23 [CT] score: 0!
+L 06/30/2020 - 17:42:54: [killlog.amxx] [VALET]:  round end [T] score: 23 [CT] score: 0!
+L 06/30/2020 - 17:43:02: [killlog.amxx] [VALET]:  round start [T] score: 24 [CT] score: 0!
+L 06/30/2020 - 17:44:47: [killlog.amxx] [VALET]:  round end [T] score: 24 [CT] score: 0!
+L 06/30/2020 - 17:44:55: [killlog.amxx] [VALET]:  round start [T] score: 25 [CT] score: 0!
+L 06/30/2020 - 17:46:40: [killlog.amxx] [VALET]:  round end [T] score: 25 [CT] score: 0!
+L 06/30/2020 - 17:46:48: [killlog.amxx] [VALET]:  round start [T] score: 26 [CT] score: 0!
+L 06/30/2020 - 17:48:33: [killlog.amxx] [VALET]:  round end [T] score: 26 [CT] score: 0!
+L 06/30/2020 - 17:48:41: [killlog.amxx] [VALET]:  round start [T] score: 27 [CT] score: 0!
+L 06/30/2020 - 17:50:26: [killlog.amxx] [VALET]:  round end [T] score: 27 [CT] score: 0!
+L 06/30/2020 - 17:50:34: [killlog.amxx] [VALET]:  round start [T] score: 28 [CT] score: 0!
+L 06/30/2020 - 17:52:19: [killlog.amxx] [VALET]:  round end [T] score: 28 [CT] score: 0!
+L 06/30/2020 - 17:52:27: [killlog.amxx] [VALET]:  round start [T] score: 29 [CT] score: 0!
+L 06/30/2020 - 17:54:12: [killlog.amxx] [VALET]:  round end [T] score: 29 [CT] score: 0!
+L 06/30/2020 - 17:54:20: [killlog.amxx] [VALET]:  round start [T] score: 30 [CT] score: 0!
+L 06/30/2020 - 17:56:05: [killlog.amxx] [VALET]:  round end [T] score: 30 [CT] score: 0!
+L 06/30/2020 - 17:56:13: [killlog.amxx] [VALET]:  round start [T] score: 31 [CT] score: 0!
+L 06/30/2020 - 17:57:58: [killlog.amxx] [VALET]:  round end [T] score: 31 [CT] score: 0!
+L 06/30/2020 - 17:58:06: [killlog.amxx] [VALET]:  round start [T] score: 32 [CT] score: 0!
+L 06/30/2020 - 17:59:51: [killlog.amxx] [VALET]:  round end [T] score: 32 [CT] score: 0!
+L 06/30/2020 - 17:59:59: [killlog.amxx] [VALET]:  round start [T] score: 33 [CT] score: 0!
+L 06/30/2020 - 18:01:44: [killlog.amxx] [VALET]:  round end [T] score: 33 [CT] score: 0!
+L 06/30/2020 - 18:01:52: [killlog.amxx] [VALET]:  round start [T] score: 34 [CT] score: 0!
+L 06/30/2020 - 18:02:49: -------- Mapchange to de_dust2_2x2 --------
+L 06/30/2020 - 18:02:49: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 18:02:53: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 18:02:56: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 18:04:38: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 18:04:46: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 18:06:31: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 18:06:39: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 18:08:24: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 18:08:32: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 18:10:17: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 18:10:25: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 18:12:10: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 18:12:18: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 18:14:03: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 18:14:11: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 18:15:56: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 18:16:04: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 18:17:49: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 18:17:57: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 18:19:42: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 18:19:50: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 18:21:35: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 18:21:43: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 18:23:28: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 18:23:36: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 18:25:21: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 18:25:29: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 18:27:14: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 18:27:22: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 18:29:07: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 18:29:15: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 18:31:00: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 18:31:08: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 18:32:53: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 18:33:01: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 18:34:46: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 18:34:54: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 18:36:39: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 18:36:47: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 18:38:32: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 18:38:40: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 18:40:25: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 18:40:33: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 18:40:40: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 18:40:50: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_inferno_2x2
+L 06/30/2020 - 18:42:18: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 18:42:26: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 18:44:11: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 18:44:19: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 18:46:04: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 18:46:12: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 18:47:57: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 18:48:05: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 18:49:50: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 18:49:58: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 18:51:43: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 18:51:51: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 18:53:36: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 18:53:44: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 18:55:29: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 18:55:37: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 18:57:22: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 18:57:30: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 18:59:15: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 18:59:23: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 19:01:08: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 19:01:16: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 19:03:01: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 19:03:09: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 19:04:54: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 19:05:02: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 19:06:47: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 19:06:55: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 34!
+L 06/30/2020 - 19:07:52: -------- Mapchange to de_inferno_2x2 --------
+L 06/30/2020 - 19:07:52: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 19:07:56: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 19:07:59: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 19:09:41: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 19:09:49: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 19:11:34: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 19:11:42: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 19:13:27: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 19:13:35: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 19:15:20: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 19:15:28: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 19:17:13: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 19:17:21: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 19:19:06: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 19:19:14: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 19:20:59: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 19:21:07: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 19:22:52: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 19:23:00: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 19:24:45: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 19:24:53: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 19:26:38: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 19:26:46: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 19:28:31: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 19:28:39: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 19:30:24: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 19:30:32: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 19:32:17: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 19:32:25: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 19:34:10: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 19:34:18: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 19:36:03: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 19:36:11: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 19:37:56: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 19:38:04: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 19:39:49: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 19:39:57: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 19:41:42: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 19:41:50: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 19:43:35: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 19:43:43: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 19:45:28: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 19:45:36: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 19:45:59: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 19:46:09: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_sniper
+L 06/30/2020 - 19:47:21: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 19:47:29: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 19:49:15: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 19:49:23: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 19:51:08: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 19:51:16: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 19:53:01: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 19:53:09: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 19:54:54: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 19:55:02: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 19:56:47: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 19:56:55: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 19:58:40: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 19:58:48: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 20:00:33: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 20:00:41: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 20:02:26: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 20:02:34: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 20:04:19: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 20:04:27: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 20:06:12: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 20:06:20: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 20:08:05: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 20:08:13: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 20:09:58: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 20:10:06: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 20:11:51: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 20:11:59: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 34!
+L 06/30/2020 - 20:12:55: -------- Mapchange to de_sniper --------
+L 06/30/2020 - 20:12:56: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 20:13:00: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 20:13:03: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 20:14:45: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 20:14:53: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 20:16:38: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 20:16:46: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 20:18:31: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 20:18:39: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 20:20:24: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 20:20:32: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 20:22:17: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 20:22:25: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 20:24:10: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 20:24:18: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 20:26:03: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 20:26:11: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 20:27:56: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 20:28:04: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 20:29:49: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 8!
+L 06/30/2020 - 20:29:57: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 20:31:42: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 9!
+L 06/30/2020 - 20:31:50: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 20:33:35: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 10!
+L 06/30/2020 - 20:33:43: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 20:35:28: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 11!
+L 06/30/2020 - 20:35:36: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 20:37:21: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 12!
+L 06/30/2020 - 20:37:29: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 20:39:14: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 13!
+L 06/30/2020 - 20:39:22: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 20:41:07: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 14!
+L 06/30/2020 - 20:41:15: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 20:43:00: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 15!
+L 06/30/2020 - 20:43:08: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 20:44:53: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 16!
+L 06/30/2020 - 20:45:01: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 20:46:46: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 17!
+L 06/30/2020 - 20:46:54: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 20:48:39: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 18!
+L 06/30/2020 - 20:48:47: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 20:50:32: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 19!
+L 06/30/2020 - 20:50:40: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 20:51:02: [mapchooser4.amxx] Vote: Voting for the nextmap started
+L 06/30/2020 - 20:51:12: [mapchooser4.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_snipe_it5
+L 06/30/2020 - 20:52:25: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 20!
+L 06/30/2020 - 20:52:33: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 20:54:18: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 21!
+L 06/30/2020 - 20:54:26: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 20:56:11: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 22!
+L 06/30/2020 - 20:56:19: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 20:58:04: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 23!
+L 06/30/2020 - 20:58:12: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 20:59:57: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 24!
+L 06/30/2020 - 21:00:05: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 21:01:50: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 25!
+L 06/30/2020 - 21:01:58: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 21:03:43: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 26!
+L 06/30/2020 - 21:03:51: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 21:05:36: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 27!
+L 06/30/2020 - 21:05:44: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 21:07:29: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 28!
+L 06/30/2020 - 21:07:37: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 21:09:22: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 29!
+L 06/30/2020 - 21:09:30: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 21:11:15: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 30!
+L 06/30/2020 - 21:11:23: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 21:13:08: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 31!
+L 06/30/2020 - 21:13:16: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 21:15:01: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 32!
+L 06/30/2020 - 21:15:09: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 21:16:54: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 33!
+L 06/30/2020 - 21:17:02: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 34!
+L 06/30/2020 - 21:17:59: -------- Mapchange to de_snipe_it5 --------
+L 06/30/2020 - 21:17:59: [mapchooser4.amxx] Found 45 maps in maps folder
+L 06/30/2020 - 21:18:03: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 21:18:06: [mapchooser4.amxx] xvars for mapchooser 4 setuped.
+L 06/30/2020 - 21:19:48: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 0!
+L 06/30/2020 - 21:19:56: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 21:21:41: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 1!
+L 06/30/2020 - 21:21:49: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 21:23:34: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 2!
+L 06/30/2020 - 21:23:42: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 21:25:27: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 3!
+L 06/30/2020 - 21:25:35: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 21:27:20: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 4!
+L 06/30/2020 - 21:27:28: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 21:29:13: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 5!
+L 06/30/2020 - 21:29:21: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 21:31:06: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 6!
+L 06/30/2020 - 21:31:14: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 21:32:59: [killlog.amxx] [VALET]:  round end [T] score: 0 [CT] score: 7!
+L 06/30/2020 - 21:33:07: [killlog.amxx] [VALET]:  round start [T] score: 0 [CT] score: 8!

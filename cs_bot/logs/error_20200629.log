@@ -1,0 +1,224 @@
+L 06/29/2020 - 22:06:35: Start of error session.
+L 06/29/2020 - 22:06:35: Info (map "de_inferno_2x2") (file "addons/amxmodx/logs/error_20200629.log")
+L 06/29/2020 - 22:06:35: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:06:35: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:06:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:14:24: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:14:24: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:14:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:15:43: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:15:43: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:15:43: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:18:30: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:18:30: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:18:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:25:13: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:25:13: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:25:13: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:30:09: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:30:09: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:30:09: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:32:24: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:32:24: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:32:24: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:36:10: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:36:10: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:36:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:39:36: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:39:36: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:39:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:40:59: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:40:59: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:40:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:41:04: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:41:04: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:41:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:42:33: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:42:33: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:42:33: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:42:55: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:42:55: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:42:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:43:17: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:43:17: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:43:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:45:06: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:45:06: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:45:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:46:05: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:46:05: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:46:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:46:45: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:46:45: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:46:45: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:48:36: Start of error session.
+L 06/29/2020 - 22:48:36: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20200629.log")
+L 06/29/2020 - 22:48:36: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:48:36: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:48:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:48:41: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:48:41: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:48:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:48:46: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:48:46: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:48:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:48:50: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:48:50: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:48:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:48:51: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:48:51: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:48:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:48:51: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:48:51: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:48:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:48:52: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:48:52: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:48:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:48:56: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:48:56: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:48:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:49:03: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:49:03: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:49:03: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:49:36: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:49:36: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:49:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:50:17: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:50:17: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:50:17: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:51:15: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:51:15: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:51:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:51:41: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:51:41: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:51:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:53:42: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:53:42: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:53:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 22:54:35: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 22:54:35: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 22:54:35: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:04:06: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:04:06: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:04:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:09:08: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:09:08: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:09:08: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:09:52: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:09:52: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:09:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:55: Start of error session.
+L 06/29/2020 - 23:20:55: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20200629.log")
+L 06/29/2020 - 23:20:55: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:55: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:55: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:55: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:55: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:55: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:55: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:55: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:55: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:55: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:55: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:56: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:56: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:56: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:56: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:56: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:56: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:56: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:56: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:56: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:56: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:56: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:56: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:56: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:56: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:56: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:56: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:20:56: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:20:56: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:20:56: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: Start of error session.
+L 06/29/2020 - 23:21:07: Info (map "de_nuke") (file "addons/amxmodx/logs/error_20200629.log")
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:21:07: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:21:07: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:21:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:24:57: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:24:57: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:24:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:26:47: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:26:47: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:26:47: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:31:27: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:31:27: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:31:27: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:33:34: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:33:34: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:33:34: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:34:12: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:34:12: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:34:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:39:14: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:39:14: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:39:14: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:43:51: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:43:51: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:43:51: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:52:22: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:52:22: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:52:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 06/29/2020 - 23:57:22: String formatted incorrectly - parameter 6 (total 5)
+L 06/29/2020 - 23:57:22: [AMXX] Run time error 25 (plugin "killlog.amxx") - debug not enabled!
+L 06/29/2020 - 23:57:22: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
