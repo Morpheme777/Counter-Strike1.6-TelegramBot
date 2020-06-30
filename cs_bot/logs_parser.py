@@ -21,10 +21,10 @@ MIN_ROUNDS_FOR_PVP_STAT = 20
 
 MU = 110.
 SIGMA = 50
-BETA = SIGMA / 2
+BETA = 25
 TAU = 0.05
 
-env = trueskill.TrueSkill(mu=MU, sigma=SIGMA, beta=BETA, tau=TAU)
+env = trueskill.setup(mu=MU, sigma=SIGMA, beta=BETA, tau=TAU)
 #env = trueskill.TrueSkill(mu=MU, sigma=SIGMA)
 
 MAPS_TO_ACCOUNT = ['de_dust2', 'de_inferno', 'de_aztec']
