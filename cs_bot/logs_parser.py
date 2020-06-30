@@ -19,7 +19,7 @@ PLAYER_TEAM_MATCHER = re.compile('.*\ (?P<player>.*) joined \[(?P<team>.{1,2})\]
 MIN_ROUNDS_FOR_PVP_STAT = 20
 # INITIAL_RATING = 25.
 
-MU = 110.
+MU = 100.
 SIGMA = 50
 BETA = 25
 TAU = 0.05
