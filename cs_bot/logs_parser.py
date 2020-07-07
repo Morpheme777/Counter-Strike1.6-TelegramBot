@@ -36,6 +36,7 @@ class Round:
         self._player_kills = Counter()
         self.winner_team = None
         self._prev_score = None
+        self.round_start = False
 
     def set_prev_score(self, team2score):
         self._prev_score = team2score
@@ -49,7 +50,8 @@ class Round:
                 return
 
     def add(self, team, player):
-        self._team_players[team].append(player)
+        if not player in self._team_players[team]:
+            self._team_players[team].append(player)
 
     def get_winner_looser_teams(self):
         if not len(self._team_players) == 2:
@@ -91,7 +93,6 @@ class StatCollector:
     def update_ratings(self, winner_players, winner_players_kills, loser_players, loser_players_kills):
         if len(winner_players) == 0 or len(loser_players) == 0:
             return
-
         team_win_ratings = [self._p2r[p] for p in winner_players]
         team_win_weights = softmax(np.array(winner_players_kills))
 
@@ -203,6 +204,7 @@ class LogsParser:
             team2score = new_round
             if self._round:
                 self._round.set_prev_score(team2score)
+                self._round.round_start = True
             return
 
         end_round = LineMatcher.parse_end_round(line)
@@ -218,7 +220,8 @@ class LogsParser:
         if player_join_team:
             if not self._round:
                 self._round = Round()
-            self._round.add(*player_join_team)
+            if not self._round.round_start:
+                self._round.add(*player_join_team)
             return
 
 class LineMatcher:
