@@ -185,7 +185,8 @@ if __name__ == '__main__':
 
     steam_ids, pvp_matrix = stat_collector.get_pvp_stats()
     players = [steam_id2nick.get(s) for s in steam_ids]
-    render_pvp_matrix(players, pvp_matrix)
+    players_idx = ~pd.isnull(players)
+    render_pvp_matrix(np.array(players)[players_idx], pvp_matrix[players_idx][:,players_idx])
 
     p2r = stat_collector.get_ratings()
     
