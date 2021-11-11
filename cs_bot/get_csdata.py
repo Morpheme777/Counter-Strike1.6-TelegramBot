@@ -12,7 +12,7 @@ LOGS_FOLDER = WORK_DIR + "/logs"
 
 def downloadLogs():
     ftp = FTP(host='83.222.115.202')
-    ftp.login(user='gs7336', passwd='UoN8pudmG')
+    ftp.login(user='gs7336', passwd='UoN8pudmG')  # already expired
     ftp.cwd('addons/amxmodx/logs/')
 
     filenames = ftp.nlst() # get filenames within the directory
