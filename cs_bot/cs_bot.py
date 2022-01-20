@@ -9,9 +9,9 @@ from csdata import CSStats
 import re
 import os
 
-bot_token = "1227092421:AAHe5fwZy32c5ftOzjaI-1BHY7T4NJAqUKg"
-channel_id = '-309095306' # CS chat
-channel_id = '-1001129593682' # MP SIEM chat
+bot_token = "xxx"
+channel_id = 'xxx' # CS chat
+channel_id = 'xxx' # MP SIEM chat
 #apihelper.proxy = {"https":"socks5://95513393:h60ofuEq@orbtl.s5.opennetwork.cc:999"}
 #apihelper.proxy = {"https":"socks5://95513393:h60ofuEq@grsst.s5.opennetwork.cc:999"}
 #apihelper.proxy = {"https":"socks5://igor:1qaz!QAZ@timur.no-ip.biz:2831"}
