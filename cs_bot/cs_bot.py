@@ -11,10 +11,6 @@ import os
 
 bot_token = "xxx"
 channel_id = 'xxx' # CS chat
-channel_id = 'xxx' # MP SIEM chat
-#apihelper.proxy = {"https":"socks5://95513393:h60ofuEq@orbtl.s5.opennetwork.cc:999"}
-#apihelper.proxy = {"https":"socks5://95513393:h60ofuEq@grsst.s5.opennetwork.cc:999"}
-#apihelper.proxy = {"https":"socks5://igor:1qaz!QAZ@timur.no-ip.biz:2831"}
 WORK_DIR = os.path.dirname(os.path.realpath(__file__))
 DATA_FOLDER = WORK_DIR + "/data"
 IMG_FOLDER = WORK_DIR + '/img'
